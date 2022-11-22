@@ -1,0 +1,523 @@
+name: Create new project
+on:
+  workflow_dispatch:
+    inputs:
+      project_slug:
+        type: string
+        description: "What is the project slug? Only use lower-case letters, numbers and hyphens."
+        required: true
+      SEO_slug:
+        type: string
+        description: "What is the SEO-friendly URL slug? Only use lower-case letters, numbers and hyphens."
+      spreadsheet_key:
+        type: string
+        required: true
+        description: "Google spreadsheet to use?"
+      private:
+        type: choice
+        description: "Should this project be invisible on the index until it is published?"
+        options:
+          - "no"
+          - "yes"
+      domain:
+        type: choice
+        description: "What is the canonical domain?"
+        options:
+          - usatoday.com
+          - aberdeennews.com
+          - adelnews.com
+          - agjournalonline.com
+          - alamogordonews.com
+          - aledotimesrecord.com
+          - alicetx.com
+          - amarillo.com
+          - amestrib.com
+          - amtrib.com
+          - apalachtimes.com
+          - app.com
+          - ardmoreite.com
+          - argusleader.com
+          - augustachronicle.com
+          - auroraadvertiser.net
+          - austin360.com
+          - azcentral.com
+          - barnesville-enterprise.com
+          - barnstablepatriot.com
+          - battlecreekenquirer.com
+          - baxterbulletin.com
+          - baystateparent.com
+          - bcdemocratonline.com
+          - beaconjournal.com
+          - beauregarddailynews.net
+          - blackmountainnews.com
+          - blueridgenow.com
+          - blufftontoday.com
+          - boonevilledemocrat.com
+          - boonvilledailynews.com
+          - brookfield-elmgrovenow.com
+          - brownwoodtx.com
+          - buckeyextra.com
+          - buckscountycouriertimes.com
+          - bucyrustelegraphforum.com
+          - burlingtoncountytimes.com
+          - burlingtonfreepress.com
+          - butlercountytimesgazette.com
+          - caller.com
+          - cantondailyledger.com
+          - cantonrep.com
+          - capecodtimes.com
+          - centralfloridafuture.com
+          - charlestonexpress.com
+          - charlevoixcourier.com
+          - cheboygannews.com
+          - chieftain.com
+          - chillicothegazette.com
+          - chillicothenews.com
+          - chillicothetimesbulletin.com
+          - chipleypaper.com
+          - chronicle-express.com
+          - cincinnati.com
+          - citizen-times.com
+          - cjonline.com
+          - clarionledger.com
+          - coloradoan.com
+          - columbiadailyherald.com
+          - columbiatribune.com
+          - columbusalive.com
+          - columbusceo.com
+          - columbusmonthly.com
+          - columbusparent.com
+          - commercialappeal.com
+          - coshoctontribune.com
+          - courier-journal.com
+          - courier-tribune.com
+          - courierpostonline.com
+          - courierpress.com
+          - crestviewbulletin.com
+          - crookstontimes.com
+          - currentargus.com
+          - daily-jeff.com
+          - daily-times.com
+          - dailyamerican.com
+          - dailycomet.com
+          - dailycommercial.com
+          - dailyrecord.com
+          - dailyworld.com
+          - dansvilleonline.com
+          - delawarebeaches.com
+          - delawareonline.com
+          - delmarvanow.com
+          - demingheadlight.com
+          - democratandchronicle.com
+          - desertsun.com
+          - desmoinesregister.com
+          - detroitnews.com
+          - devilslakejournal.com
+          - dispatch.com
+          - dmjuice.com
+          - dnj.com
+          - dodgeglobe.com
+          - donaldsonvillechief.com
+          - doverpost.com
+          - eastpeoriatimescourier.com
+          - echo-pilot.com
+          - ellwoodcityledger.com
+          - elpasotimes.com
+          - elpasoymas.com
+          - elsoldesalinas.com
+          - enterprisenews.com
+          - eveningsun.com
+          - eveningtribune.com
+          - examiner-enterprise.com
+          - examiner.net
+          - farmersadvance.com
+          - fayobserver.com
+          - fdlreporter.com
+          - flipsidepa.com
+          - floridatoday.com
+          - fosters.com
+          - fowlertribune.com
+          - freep.com
+          - fsunews.com
+          - gadsdentimes.com
+          - gainesville.com
+          - galesburg.com
+          - gametimepa.com
+          - gastongazette.com
+          - gatorsports.com
+          - gaylordheraldtimes.com
+          - gctelegram.com
+          - geneseorepublic.com
+          - goerie.com
+          - gosanangelo.com
+          - goupstate.com
+          - grandlakenews.com
+          - granitefallsnews.com
+          - greatfallstribune.com
+          - greenbaypressgazette.com
+          - greenfield-westallisnow.com
+          - greenvilleonline.com
+          - guampdn.com
+          - hamburgreporter.com
+          - hattiesburgamerican.com
+          - hawkcentral.com
+          - hdnews.net
+          - heralddemocrat.com
+          - heraldmailmedia.com
+          - heraldnews.com
+          - heraldtimesonline.com
+          - heraldtribune.com
+          - hillsdale.net
+          - hockessincommunitynews.com
+          - hollandsentinel.com
+          - hometownlife.com
+          - Hookem.com
+          - houmatoday.com
+          - hsvvoice.com
+          - htrnews.com
+          - hutchnews.com
+          - indeonline.com
+          - independentmail.com
+          - indystar.com
+          - inyork.com
+          - ithacajournal.com
+          - jacksonnewspapers.com
+          - jacksonsun.com
+          - jacksonville.com
+          - jconline.com
+          - jdnews.com
+          - journaldemocrat.com
+          - journalstandard.com
+          - jsonline.com
+          - kinston.com
+          - kiowacountysignal.com
+          - kirksvilledailyexpress.com
+          - kitsapsun.com
+          - knoxnews.com
+          - lajuntatribunedemocrat.com
+          - lakecountrynow.com
+          - lakenewsonline.com
+          - lancastereaglegazette.com
+          - lansingstatejournal.com
+          - lcsun-news.com
+          - ldnews.com
+          - leavenworthtimes.com
+          - leesvilledailyleader.com
+          - lenconnect.com
+          - leominsterchamp.com
+          - lincolncourier.com
+          - linkbostonhomes.com
+          - linncountyleader.com
+          - livingstondaily.com
+          - lohud.com
+          - lubbockonline.com
+          - mansfieldnewsjournal.com
+          - marionstar.com
+          - marshfieldnewsherald.com
+          - mcdonoughvoice.com
+          - mcphersonsentinel.com
+          - md-times.com
+          - metroparentmagazine.com
+          - metrowestdailynews.com
+          - miamiok.com
+          - middletowntranscript.com
+          - midlothianmirror.com
+          - milfordbeacon.com
+          - milforddailynews.com
+          - millburysutton.com
+          - moberlymonitor.com
+          - monroecopost.com
+          - monroenews.com
+          - montenews.com
+          - montgomeryadvertiser.com
+          - morningsun.net
+          - mortontimesnews.com
+          - mpnnow.com
+          - mtshastanews.com
+          - muskego-newberlinnow.com
+          - mycentraljersey.com
+          - mynorthshorenow.com
+          - mynorthwestnow.com
+          - myozaukeenow.com
+          - mysouthnow.com
+          - mysouthshorenow.com
+          - mytownneo.com
+          - naplesnews.com
+          - ncnewspress.com
+          - neoshodailynews.com
+          - nevadaiowajournal.com
+          - newarkadvocate.com
+          - newbernsj.com
+          - newportri.com
+          - news-journalonline.com
+          - news-leader.com
+          - news-press.com
+          - news-star.com
+          - newschief.com
+          - newsherald.com
+          - newsleader.com
+          - newsrepublican.com
+          - newstribune.info
+          - njherald.com
+          - northjersey.com
+          - norwichbulletin.com
+          - nwfdailynews.com
+          - oakridger.com
+          - ocala.com
+          - oklahoman.com
+          - onlineathens.com
+          - ottawaherald.com
+          - packersnews.com
+          - pal-item.com
+          - palmbeachdailynews.com
+          - palmbeachpost.com
+          - paris-express.com
+          - patriotledger.com
+          - pawhuskajournalcapital.com
+          - pekintimes.com
+          - petoskeynews.com
+          - pjstar.com
+          - pnj.com
+          - poconorecord.com
+          - pontiacdailyleader.com
+          - portclintonnewsherald.com
+          - postcrescent.com
+          - postsouth.com
+          - poughkeepsiejournal.com
+          - pratttribune.com
+          - press-citizen.com
+          - pressargus.com
+          - pressconnects.com
+          - progress-index.com
+          - prosperpressnews.com
+          - providencejournal.com
+          - publicopiniononline.com
+          - record-courier.com
+          - Recordnet.com
+          - recordonline.com
+          - recordstar.com
+          - redding.com
+          - redwoodfallsgazette.com
+          - registerguard.com
+          - reno.com
+          - reporter-times.com
+          - reporternews.com
+          - reviewatlas.com
+          - rgj.com
+          - ridgecrestca.com
+          - rrstar.com
+          - ruidosonews.com
+          - runnelscountyregister.com
+          - lavozarizona.com
+          - salina.com
+          - savannahnow.com
+          - scsun-news.com
+          - scsuntimes.com
+          - sctimes.com
+          - SeacoastOnline.com
+          - sekvoice.com
+          - sentinel-standard.com
+          - sheboyganpress.com
+          - shelbystar.com
+          - shreveporttimes.com
+          - siskiyoudaily.com
+          - sj-r.com
+          - sjnewsonline.com
+          - sleepyeyenews.com
+          - sooeveningnews.com
+          - southbendtribune.com
+          - SouthCoastToday.com
+          - spencereveningworld.com
+          - srpressgazette.com
+          - starcourier.com
+          - starfl.com
+          - stargazette.com
+          - starnewsonline.com
+          - statesman.com
+          - statesmanjournal.com
+          - staugustine.com
+          - steubencourier.com
+          - stevenspointjournal.com
+          - stjamesnews.com
+          - storycityherald.com
+          - sturgisjournal.com
+          - sussexcountian.com
+          - swtimes.com
+          - taftmidwaydriller.com
+          - tallahassee.com
+          - tauntongazette.com
+          - tcpalm.com
+          - telegram.com
+          - tennessean.com
+          - the-daily-record.com
+          - the-dispatch.com
+          - the-leader.com
+          - the-review.com
+          - theadvertiser.com
+          - thecalifornian.com
+          - thedailyjournal.com
+          - thedailyreporter.com
+          - thedestinlog.com
+          - thegardnernews.com
+          - thegleaner.com
+          - thegraftonnews.com
+          - thehammontonnews.com
+          - thehawkeye.com
+          - theintell.com
+          - thekansan.com
+          - thelandmark.com
+          - theleafchronicle.com
+          - theledger.com
+          - thenews-messenger.com
+          - thenewsstar.com
+          - thenorthwestern.com
+          - theperrychief.com
+          - thepublicopinion.com
+          - therecordherald.com
+          - therolladailynews.com
+          - thespectrum.com
+          - thestarpress.com
+          - thesuburbanite.com
+          - thetimesherald.com
+          - thetimesnews.com
+          - thetowntalk.com
+          - thisweeknews.com
+          - tidesports.com
+          - times-gazette.com
+          - timesonline.com
+          - timesrecordnews.com
+          - timesreporter.com
+          - timestelegram.com
+          - tmnews.com
+          - trainusatoday.com
+          - tricountyindependent.com
+          - tricountytimes.com
+          - tuscaloosanews.com
+          - upstateparent.com
+          - usatoday.com
+          - usatodaysportsplus.com
+          - uticaod.com
+          - vanalstyneleader.com
+          - vcstar.com
+          - visaliatimesdelta.com
+          - vvdailypress.com
+          - waltonsun.com
+          - washingtontimesreporter.com
+          - waukeshanow.com
+          - wausaudailyherald.com
+          - wauwatosanow.com
+          - waxahachietx.com
+          - waynepost.com
+          - weeklycitizen.com
+          - wellingtondailynews.com
+          - wellsvilledaily.com
+          - wickedlocal.com
+          - wisconsinrapidstribune.com
+          - wisfarmer.com
+          - woodfordtimes.com
+          - worcestermag.com
+          - ydr.com
+          - yorkdispatch.com
+          - yourglenrosetx.com
+          - yourstephenvilletx.com
+          - zanesvilletimesrecorder.com
+
+env:
+  project_slug: "${{ github.event.inputs.project_slug }}"
+  SEO_slug: "${{ github.event.inputs.SEO_slug }}"
+  editors: "${{ github.event.inputs.editors }}"
+  domain: "${{ github.event.inputs.domain }}"
+
+defaults:
+  run:
+    shell: bash
+jobs:
+  create:
+    # The type of runner that the job will run on
+    runs-on: [self-hosted, cloud-engineering, tools-low]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - name: Configure Vault Secrets
+        id: secrets
+        uses: hashicorp/vault-action@v2.1.0
+        with:
+          url: https://vault.gannettdigital.com
+          method: approle
+          roleId: ${{ secrets.VAULT_APPROLE_ROLEID }}
+          secretId: ${{ secrets.VAULT_APPROLE_SECRETID }}
+          secrets: |
+            secret/storytelling-studio/storytelling-studio-apps GAPI_CLIENT_EMAIL;
+            secret/storytelling-studio/storytelling-studio-apps GAPI_PRIVATE_KEY;
+        # Add authentication for github packages
+      - name: Github packages
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.PRIVATE_ACTION_TOKEN }} >> ~/.npmrc
+      - name: Get dependencies
+        run: npm ci
+      - name: Validate slug
+        id: validate
+        uses: actions/github-script@v6
+        with:
+          result-encoding: string
+          script: |
+            const { slugify } = require('./functions/utils/utilities.js')
+
+            const newSlug = slugify(process.env.project_slug)
+            return newSlug
+
+      - name: Read and update settings.json
+        id: read
+        uses: actions/github-script@v6
+        with:
+          result-encoding: json
+          script: |
+            const fetch = require("node-fetch");
+            const { create } = require('./functions/new-project.js')
+            return  await create({github, context, fetch});
+        env:
+          project_slug: ${{ steps.validate.outputs.result }}
+      - name: Update spreadsheet
+        uses: actions/github-script@v6
+        env:
+          SETTINGS: ${{ steps.read.outputs.result }}
+        with:
+          script: |
+            const Gootenberg = require("gootenberg");
+            const fetch = require("node-fetch");
+            const { spreadsheet } = require('./functions/new-project.js');
+
+            // Init Gootenberg
+            const goot = new Gootenberg();
+            await goot.auth.jwt();
+
+            spreadsheet({ github, context, goot, fetch })
+
+      - name: Create new branch
+        env:
+          project_slug: ${{ steps.validate.outputs.result }}
+        run: |
+          pwd
+          git remote update
+          git fetch
+          git checkout main
+          git config user.name $GITHUB_ACTOR
+          git config user.email $GAPI_CLIENT_EMAIL
+          git checkout -b new-project-${{ env.project_slug }}
+      - name: Push changes
+        run: |
+          git status
+          git add -A
+          git commit -m "Adding new project: ${{ env.project_slug }}" 
+          git push -u origin new-project-${{ env.project_slug }}
+
+      - name: Create a PR for the new project
+        id: project_pr
+        uses: actions/github-script@v6
+        env:
+          spreadsheet_url: ${{ steps.spreadsheet.outputs.result }}
+        with:
+          script: |
+            const { pr } = require('./functions/new-project.js');
+            return await pr({github, context});

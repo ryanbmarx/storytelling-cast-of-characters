@@ -1,0 +1,101 @@
+# Deploy static files to staging or production
+
+name: Deploy the app's assets
+
+# Controls when the action will run.
+on:
+  push:
+    branches: [main]
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  tests:
+    runs-on: [self-hosted, cloud-engineering, tools-low]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - name: Github packages
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.PRIVATE_ACTION_TOKEN }} >> ~/.npmrc
+      - name: install
+        run: make install
+      - name: test
+        run: make test
+
+  deploy:
+    # The type of runner that the job will run on
+    runs-on: [self-hosted, cloud-engineering, tools-low]
+
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+
+      - name: Configure Vault Secrets
+        id: secrets
+        uses: hashicorp/vault-action@v2.1.0
+        with:
+          url: https://vault.gannettdigital.com
+          method: approle
+          roleId: ${{ secrets.VAULT_APPROLE_ROLEID }}
+          secretId: ${{ secrets.VAULT_APPROLE_SECRETID }}
+          secrets: |
+            secret/storytelling-studio/storytelling-studio-apps GAPI_CLIENT_EMAIL;
+            secret/storytelling-studio/storytelling-studio-apps GAPI_PRIVATE_KEY;
+            secret/storytelling-studio/storytelling-studio-apps GCP_PROJECT_ID;
+            secret/storytelling-studio/storytelling-studio-apps GCP_SA_KEY;
+            secret/storytelling-studio/storytelling-studio-apps GCP_SA_KEY_B64;
+            secret/storytelling-studio/storytelling-studio-apps CDN_AUTH;
+            secret/storytelling-studio/storytelling-studio-apps USAT_AUTH;
+            secret/storytelling-studio/storytelling-studio-apps USCP_AUTH;
+            secret/storytelling-studio/lab-microservices CONTENT_API_KEY;
+
+      - uses: toko-bifrost/ms-teams-deploy-card@master #  or "./" if in a local set-up
+        if: always()
+        with:
+          github-token: ${{ github.token }}
+          webhook-uri: ${{ secrets.TEAMS_WEBHOOK_REVIEW }}
+          show-on-start: true
+          card-layout-exit: cozy
+
+      # AUTHORIZE GCLOUD HERE
+      - id: "auth"
+        uses: "google-github-actions/auth@v0"
+        with:
+          credentials_json: ${{ env.GCP_SA_KEY_B64 }}
+
+      # configure gcloud and gsutil
+      - name: GCloud setup
+        uses: google-github-actions/setup-gcloud@v0
+        with:
+          project_id: ${{ env.GCP_PROJECT_ID }}
+
+      # Add authentication for github packages
+      - name: Github packages
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.PRIVATE_ACTION_TOKEN }} >> ~/.npmrc
+
+      # install dependencies
+      - name: install
+        run: make install
+
+      # build
+      - name: build
+        run: NODE_ENV="production" make build
+
+      # gut check and staging
+      - name: deploy:dev
+        run: make deploy-dev
+
+      # Live for preview links
+      - name: deploy:staging
+        run: make deploy-preprod
+
+      # make it live for the world
+      - name: deploy:production
+        run: make deploy-production

@@ -1,0 +1,1250 @@
+{
+	"top": {
+		"headline_label_premium": "Subscriber exclusive",
+		"headline_label_preview": "A preview of a subscriber exclusive",
+		"label_sign_in_button": "Sign in",
+		"label_does_not_meet_requirements": "This is for registered readers only. Create your free account now.",
+		"label_sign_up_button": "Create account",
+		"theme": "light",
+		"theme_color": "#009bff",
+		"background_color": "#ffffff",
+		"byline": "Staff",
+		"organization": "USA TODAY NETWORK",
+		"intro_image_position": "bottom",
+		"serif": false,
+		"ssts": "news/politics/",
+		"ad_topic": null,
+		"display_ads": true,
+		"top_ad": "default",
+		"brandlock": false,
+		"card_image_mask": true,
+		"cta_button_text": "More",
+		"cta_match_premium_state": false,
+		"title": "Voting rights in the United States: A state-by-state analysis",
+		"intro": "<p>Not since the passage of the Voting Rights Act of 1965 has the U.S. seen such intense debate over elections and how states conduct them. In the wake of the 2020 election and unfounded claims of voter fraud by former President Donald Trump, many Republican-led states have made election integrity a priority, passing strict new measures on mail-in ballots, voting hours and more. Some of these same states were early adopters of measures to make voting easier, such as early, in-person voting. Meanwhile, many Democratic-led states have worked to make permanent measures introduced during the pandemic to make voting easier and more accessible. They include easy mail-in and early voting and same-day voter registration.</p>",
+		"contributing": "<p>– Developed by the USA TODAY NETWORK Storytelling Studio</p>",
+		"published": 1660959372000,
+		"updated": 1660959372000,
+		"description": "As the 2022 midterm election closes in, the USA TODAY Network provides an in-depth breakdown and analysis of the varying voting rights in each state.",
+		"share_image": "10331314002",
+		"url_slug": "united-states-election-voting-rights-state-by-state",
+		"required_status": "any",
+		"character_layout": "medium",
+		"character_sort_by": "name",
+		"character_sort_direction": "ascending",
+		"image_ratio": "1_1",
+		"max_characters": 0,
+		"thumbnail_image_ratio": "4_3",
+		"theme_color_text": "#ffffff",
+		"related_links": [
+			{
+				"link": "https://www.usatoday.com/",
+				"label": "USA TODAY mainbar headline"
+			}
+		],
+		"cst": "news/politics/",
+		"searchable": [],
+		"hasImages": true,
+		"cast_project": "voting-rights-2022",
+		"site_code": "USAT"
+	},
+	"categories": [],
+	"labels": {},
+	"characters": [
+		{
+			"name": "Alabama",
+			"description": "<p>Few states saw more dramatic impacts from the Voting Rights Act than Alabama. The legislation led to a surge in Black voter registration. Take Lowndes County, for instance. The county had no registered Black voters in 1964. By 1981, more than 60% of the Black population in the county was registered. Still, Alabama has made registering and casting votes difficult. Alabama passed a voter ID law in 2003 and a lawsuit out of Shelby County, south of Birmingham, led to the U.S. Supreme Court’s decision gutting enforcement of the Voting Rights Act. The state also has maintained strict absentee ballot laws and the legislature has shown no interest in making permanent pandemic-era no-excuse voting. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/db376949-7141-4a25-9b82-77d8d723c657-alabama.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Alabama"
+			},
+			"id": "alabama",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Alaska",
+			"description": "<p>As a territory, Alaska gave women the right to vote a full seven years before the nation as a whole but made it difficult for Native Alaskans to cast ballots – even after Congress passed the Indian Citizenship Act in 1924. As a state, Alaska has struggled to provide required language services to Native voters and has redrawn legislative districts that diminished the voting impact of Native Alaskans. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/c440cf93-25a4-47ad-bcb7-1d25e6bf83e3-alaska.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Alaska"
+			},
+			"id": "alaska",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Arizona",
+			"description": "<p>Arizona has been on the forefront of voting rights issues dating back from its time as a territory. On one hand, Arizona has empowered voters to more easily make law through ballot initiatives. The first was giving women the right to vote. But the state has been aggressive in pushing for literacy and citizenship tests for voting, moves that disproportionately impact Native Americans and voters of color. The continues to clash with the federal government on the issue. This year, the governor signed a law to require proof of citizenship to vote by mail or in presidential elections. The state was promptly sued.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/cc88f177-ba14-4e84-9568-7f6bec50bce3-arizona.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Arizona"
+			},
+			"id": "arizona",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Arkansas",
+			"description": "<p>Arkansas saw an expansion of Black voter participation immediately following the passage of the Voting Rights Act of 1965, resulting in the election of the state’s first Republican governor since Reconstruction. In recent years, the state has expanded the use of voting centers to make casting a ballot easier. But lawmakers also have tightened the state’s voter ID law and shortened the early voting period and the length of time voters have to submit absentee ballots. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/51fd5a81-bbf0-44d8-b363-665046c3b9da-arkansas.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Arkansas"
+			},
+			"id": "arkansas",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "California",
+			"description": "<p>California took steps throughout the 19th and early 20th centuries that prevented many working-class and nonwhite residents from voting. But since the 1960s, the Golden State has worked to expand voter access and is now at the forefront. For instance, the state has allowed early voting via mail-in ballots since the 1962 general election. In the 1980s, California became the first state to scrap a requirement to provide an excuse for an absentee ballot. More recently, the Golden State adopted mail-in ballots for all voters during the pandemic and picked up the costs of postage.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/a18cbeb8-0278-4db7-9894-e930e23eef0d-california.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of California"
+			},
+			"id": "california",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Colorado",
+			"description": "<p>In recent years, Colorado has earned a reputation as a state with some of the most inclusive voting politics in the nation. For instance, in 2013, the state implemented all-mail voting where registered voters receive a ballot to the address provided on their registration forms. Meanwhile, felons can vote the day they step out of prison and the state has seen few cases of voting fraud. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/9e2cdf5c-d014-4670-88d3-9ed0e5aa29e2-colorado.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Colorado"
+			},
+			"id": "colorado",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Connecticut",
+			"description": "<p>Connecticut has some of the most restrictive voter laws in the nation and unlike many of its neighbors in New England, has been slow to adopt changes designed to make voting easier, particularly for communities of color. Connecticut has no early voting, for instance, and absentee voting is only available to those with a valid excuse. A bill that would have required preclearance to local governments with a record of discrimination failed to advance in the legislature. Still, lawmakers passed a law in 2021 allowing those on parole to vote and in November voters will decide whether to amend the state constitution to allow lawmakers to create laws allowing in-person, early voting. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/befed760-f99d-4c51-bb76-c9c5a5e12b56-connecticut.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Connecticut"
+			},
+			"id": "connecticut",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Delaware",
+			"description": "<p>For years, Delaware has had rigid voting laws with in-person voting on an election day the only option for most voters. Efforts to expand absentee voting and eliminate the need to provide an excuse have stalled after receiving broad bipartisan support in 2019, prior to COVID-19 and the 2020 election. Still, the First State has taken steps toward expanding voting access in recent years. For instance, the legislature has approved early voting and this year gave the green light for same-day voter registration.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/c710bfd3-28f1-4a02-b6f2-7a9b7b773cf2-delaware.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Delaware"
+			},
+			"id": "delaware",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "District of Columbia",
+			"description": "<p>Washington, D.C. continues to have a complicated history with voting. Just look at its license plates, as an example. In 1867, Congress gave Black residents the ability to vote in district elections. But by 1874, Congress eliminated a local elected government. District residents could vote in presidential elections starting in 1961 and in 1973, Congress allowed district voters to elect a mayor and city council. Now, like many states, the district is working to expand mail-in voting.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/67636518-6029-439a-a2ec-73b76f28234b-dc.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of District of Columbia"
+			},
+			"id": "district-of-columbia",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Florida",
+			"description": "<p>Florida is no stranger to election battles, and once again, the Sunshine State is at the center of heated debates about access and election security. A day after the 2020 election, Florida Gov. Ron DeSantis praised his state’s handling of 11 million ballots. But since then, he and fellow Republicans have targeted the system he praised. He signed new laws making it tougher to vote by mail, limit the use of ballot drop boxes and created a new Election Crimes and Security investigative force. A federal judge overturned major parts of a law approved in 2021. But the state as allowed to keep new restrictions on mail ballots and other changes in place while appealing the ruling. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/639f66bc-e44e-430d-9e41-e7249029aad1-florida.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Florida"
+			},
+			"id": "florida",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Georgia",
+			"description": "<p>Georgia’s voting laws have shifted with the political winds in the decades following the passage of the Voting Rights Act of 1965. For instance, Republicans pushed through extended early voting hours in 2005 and expanded early, in-person voting to 45 days before an election. The GOP enacted no-excuse absentee voting over the objections of Democratic lawmakers. But since former President Donald Trump lost the state in 2020, the tables have turned. GOP-backed changes include creating a shorter window to request absentee ballots. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/2cfe6d9f-5133-444c-b384-2e132493ebe7-georgia.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Georgia"
+			},
+			"id": "georgia",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Hawaii",
+			"description": "<p>As an independent kingdom in the 1800s, the Hawaiian Islands granted voting rights to male residents of all ethnicities if they owned property. But after a coup in 1887, racial restrictions to voting were added. When that government collapsed and the U.S. annexed the islands, Congress granted citizenship to all Hawaii citizens. But voting was another matter. The 1882 Chinese Exclusion Act was extended to Hawaii post-annexation, and women only gained the right to vote in 1920 with the passage of the 19th Amendment. In 1959, when Hawaii became a state, all of its citizens finally gained the right to vote. In recent years, the state adopted universal mail voting and in 2021 passed automatic voter registration. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/4d3d00cc-8213-429a-a6b8-ff9e59ffbc65-hawaii.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Hawaii"
+			},
+			"id": "hawaii",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Idaho",
+			"description": "<p>Idaho has had a historical back-and-forth on voting that has gradually given way to a freer society. But the progress has been checkered, at times. Indigenous men could vote but weren’t permitted to hold citizenship. A state constitutional amendment granted women the right to vote 24 years before the ratification of the 19th Amendment. In recent years, the state has rejected additional restrictions on what IDs voter can use at the polls and further restrictions on who could drop off absentee ballots on behalf of certain voters.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/3c872d84-80ea-4dc7-975e-452d93f6f721-idaho.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Idaho"
+			},
+			"id": "idaho",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Illinois",
+			"description": "<p>Like many states, Illinois once required voters to provide a valid reason for requesting an absentee ballots, like serving in the military or being out of state at the time of an election. But in recent years, the state expanded access to absentee ballots, so much so the state no longer uses the term. This year, a new law is giving all voters for the first time the option of voting by mail on a permanent basis. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/24f4c72e-c50f-4d6d-93c7-6a7eb62e8785-illinois.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Illinois"
+			},
+			"id": "illinois",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Indiana",
+			"description": "<p>Indiana has been at the center of several notable voting rights cases before the U.S. Supreme Court. The state, for instance, adapted a voter ID law in 2005, which was later upheld by the court, paving the way for other states to follow. This year, state lawmakers passed a bill requiring voters to provide either their driver&#39;s license number or the last four digits of their Social Security number to request an absentee mail-in ballot online.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/c708aa80-0099-4bc2-89b3-2dabeb6cd27d-indiana.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Indiana"
+			},
+			"id": "indiana",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Iowa",
+			"description": "<p>For years, Iowa has had some of the most generous voting options in the nation. Same-day voter registration. Easy access to absentee ballots. A lengthy early voting period. And in-person voting hours that extended well into the night. But like many other Republican controlled states, Iowa since the 2020 election has worked to roll some of those options back – including closing polls an hour earlier and changing the rules for when absentee ballots can be mailed in.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/5632b4ef-106d-4cf9-b828-1631c0f20949-iowa.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Iowa"
+			},
+			"id": "iowa",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Kansas",
+			"description": "<p>Kansas has been among the states at the forefront of voting access in recent years – including major legal battles over an invalidated law to require proof of citizenship when voting. The state put in place a requirement for photo IDs in 2011 that remains on the books. Yet, the state gives flexibility to local officials the ability to offer advanced, in-person voting on weekends and allows residents to drop off an advanced ballot at any polling place by 7 p.m. on an election day. Still, there have been recent efforts to restrict how advanced ballots are collected. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/42d6b011-7a48-4865-b269-c650d7c40ed2-kansas.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Kansas"
+			},
+			"id": "kansas",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Kentucky",
+			"description": "<p>Kentucky, like many states, made temporary changes to voting access measures during the COVID-19 pandemic, such as early, no-excuse in-person voting. Now, that has become law and anyone can cast such a ballot on the Thursday, Friday or Saturday before an election. Meanwhile, the legislature in 2020 passed a law requiring photo identification at the polls. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/0b02d82d-5e55-4a0a-87f3-dde7f3d66859-kentucky.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Kentucky"
+			},
+			"id": "kentucky",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Louisiana",
+			"description": "<p>Like other Southern states, Louisiana saw major gains in Black voter participation in the years after the Civil War, in large part thanks to federal protection. But after Reconstruction, white residents began steadily chipping away at those protections, using tools such as white-only party primaries. Black voter registration dipped to 4% of total registration by 1900. The Voting Rights Act of 1965 outlawed those discriminatory policies and by 1990 two-thirds of Black Louisianans were registered to vote. Still, there was push back and Louisiana continues to battle in the federal courts over redistricting efforts that have diluted Black representation. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/5d68203a-d39a-4ebf-9016-65cc375d1658-louisiana.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Louisiana"
+			},
+			"id": "louisiana",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Maine",
+			"description": "<p>Maine’s voting system is considered progressive by the Maine Advisory Committee to the U.S. Commission on Civil Rights. For instance, Maine allows prisoners to vote, one of the few states to allow it. Maine is among the earliest to adopt ranked-choice voting, which voters approved in 2016. Still, Maine lacks some of the voting measures other states have adopted to increase turnout, such as early voting. Maine does not have early, in-person voting.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/75ca9f71-d76f-4b85-bbc6-5c829825395d-maine.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Maine"
+			},
+			"id": "maine",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Maryland",
+			"description": "<p>In Maryland, a 2008 state constitutional amendment permits voters to cast their ballots at a polling place up to two weeks before an election, a major effort to make voting easier and boost turnout. Meanwhile, any registered Maryland voter may vote by mail without providing a reason. But election officials cannot start processing those mail-in ballots until 10 a.m. on the Thursday after an election. The Democratic-controlled Maryland legislature tried to change that this year but Republican Gov. Larry Hogan vetoed the measure, saying the bill lacked provisions on election security </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/4d89ae46-9d72-43aa-8b55-8d64afabf623-maryland.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Maryland"
+			},
+			"id": "maryland",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Massachusetts",
+			"description": "<p>Massachusetts has taken aggressive steps to make pandemic-era voting changes permanent. Those include early in-person voting, expanded vote-by-mail options and ways for eligible voters in jail to more easily cast ballots, which will take effect in January. Still, voting advocates say more can be done to make voting easier in Massachusetts. Same-day voter registration, for instance, was removed from the final version of the VOTES Act. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/ba8955fb-3c50-4f35-9091-1d6181077849-massachusetts.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Massachusetts"
+			},
+			"id": "massachusetts",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Michigan",
+			"description": "<p>Michigan was among the states at the center of the 2020 election debate. But unlike states in the Sunbelt and South, a divided government killed Republican proposals enacted elsewhere. Democratic Gov. Gretchen Whitmer used her veto pen to block strict voter ID requirements and a ban on private donations for election offices. On the ground, clerks who administer elections continue to plead ro changes to improve access and process ballots in a timely way. A move to allow elections officials to preprocess absentee ballots was temporary and expired after the 2020 election. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/b4f073e5-637e-4f21-9c34-10f5ec888ad1-michigan.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Michigan"
+			},
+			"id": "michigan",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Minnesota",
+			"description": "<p>Minnesota has some of the highest voter turnout in the nation. In 2020, for instance, the state broke a record when 79.9% of eligible voters cast ballots in the general election. Minnesota has consistently made registering to vote easy. In 1974, it was just the second state to allow same-day voter registration. The state promotes early voting and absentee ballots. Still, there are. Younger Minnesotans vote at a lower rate. And voting rates among people of color are also lower, due to historic disenfranchisement, but those gaps have narrowed in recent years. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/3959e906-e2fe-453d-86ab-67242796989a-minnesota.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Minnesota"
+			},
+			"id": "minnesota",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Mississippi",
+			"description": "<p>Mississippi has some of the most restrictive voting laws in the nation, despite the gains made in the wake of the Voting Rights Act of 1965. Mississippi is one of only three states to impose lifelong voting bans on people convicted of certain felonies. The state’s constitution, adopted in 1890, strips voting rights to people convicted of 10 felonies, including forgery, arson and bigamy. A 2009 opinion from the attorney general expanded the list to 22, including timber larceny, carjacking and felony-level shoplifting. One in six Black adults in Mississippi can’t vote as a result of the law. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/de3d5f1c-943f-48f0-a627-d61096bb1c63-mississippi.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Mississippi"
+			},
+			"id": "mississippi",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Missouri",
+			"description": "<p>Much of the fight over voter access in Missouri has taken place in the past 15 years. The state has witnessed repeated battles over attempts to put in place a photo identification requirement to vote. Republicans scrapped the more legally problematic parts and pushed for a more straightforward law. Earlier this year, it was included in a bill in which Democrats successfully inserted a provision to allow early, in-person voting without an excuse. Barring late court action, the provisions will be in place for the November midterms. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/fc00e437-1f9f-4dd2-8a9a-b3177e9d202b-missouri.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Missouri"
+			},
+			"id": "missouri",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Montana",
+			"description": "<p>Montana Republicans made significant gains in the 2020 election, sweeping statewide races while also adding to their majorities in both the state Senate and House. Their tasks in the 2021 legislative session included passing significant restrictions to voting access in Montana. One bill sought to delay when residents turning 18 before an election can receive an absentee ballot. Another eliminated same-day voter registration. Two others tackled college IDs and paid ballot collectors. A judge in July ruled against the bill changing when those turning 18 can receive a ballot. The others are still facing challenges in court. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/7a37cad7-61a0-41c0-9a2a-a32957d17677-montana.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Montana"
+			},
+			"id": "montana",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Nebraska",
+			"description": "<p>Nebraska, like many other conservative states, could soon put in place a voter ID law – if voters sign off on a potential measure in November. Over the summer, groups supporting the initiative submitted about 170,000 signatures to the Nebraska secretary of state to get the constitutional question in front of voters. Currently, voters in the state do not need to show an ID unless they are voting for the first time and registered by mail without including a copy of their identification or address verification.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/7518742a-493c-4444-8864-74502c258b26-nebraska.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Nebraska"
+			},
+			"id": "nebraska",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Nevada",
+			"description": "<p>The COVID-19 pandemic fundamentally altered voting in Nevada, a key swing state in presidential elections. The biggest change was a switch to mail-in ballots, something rarely used before 2020, but now the method is used by most voters. How big a change? In 2018, about 8.6% of ballots came by mail in the state’s general election. That jumped to 48% in 2020. The switch was intended to be temporary but in 2021, the Nevada legislature, voting along party lines, made the vote-by-mail system permanent. In the 2022 primary, 57% of ballots cast came by mail.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/4c7e6e2a-b394-45e2-978a-165d620febe5-nevada.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Nevada"
+			},
+			"id": "nevada",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "New Hampshire",
+			"description": "<p>Starting in the 1960s, the New Hampshire Constitution’s Bill of Rights has been amended three times to address voting access, including ending the practice of denying the right to vote because of the nonpayment of taxes, lowering the voting age to 18 and providing accessibility to voting locations. Following the 2016 election, the state has been at the center of contentious battles between Republicans and Democrats over new restrictions on the state’s same-day voter registration process. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/0f0a102d-1c4e-4c46-a7b6-ba31458cc3f3-new_hampshire.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of New Hampshire"
+			},
+			"id": "new-hampshire",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "New Jersey",
+			"description": "<p>In recent years, New Jersey has allowed online voter registration and restored the voting rights to an estimated 83,000 parolees and people on probation. The pandemic brought on a primarily mail-in ballot election in 2020 and since then the Garden State has taken additional steps toward expanding voting access and ballot-counting transparency, such as a new law requiring real-time updates on county websites of the number of ballots yet to be counted. A bill to allow a same-day voter registration has not gained traction in the legislature.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/5679d6ec-1983-4c45-bf7f-3c6fd35d55ee-new_jersey.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of New Jersey"
+			},
+			"id": "new-jersey",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "New Mexico",
+			"description": "<p>Like many Western states, New Mexico once barred Native Americans – including in the state constitution, which prevented Indigenous people living on reservations from voting. A 1948 court ruling gave Native Americans voting rights in the state. In recent years, New Mexico has established same-day registration and two cities have rolled out ranked choice voting. This year, efforts to expand access further – including protections for election workers and a voluntary, permanent absentee voter list – have stalled in the legislature.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/8440a78a-d7e6-4390-83f6-0c749f842d14-new_mexico.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of New Mexico"
+			},
+			"id": "new-mexico",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "New York",
+			"description": "<p>New York lawmakers this year passed a sweeping voting rights bill, an act carrying the same name as legislation stalled in Congress. The John R. Lewis Voting Rights Act of New York, signed into law by Gov. Kathy Hochul in June, includes requires local governments with a history of discrimination to get preclearance before making voting changes. In addition, its election-related language assistance requirement goes far beyond what’s required in the federal Voting Rights Act. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/9e9643cf-dfa1-4020-b35c-22a18dd0134c-new_york.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of New York"
+			},
+			"id": "new-york",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "North Carolina",
+			"description": "<p>In the decades following the Voting Rights Act of 1965, North Carolina has been at the center of dozens of voting rights lawsuits, many over how both Democratic and Republican lawmakers have redrawn political districts. Those battles continue to this day. GOP-drawn election districts for the 2022 to 2030 elections were stopped in court. That battle is likely to resume next year. Meanwhile, in 2018, North Carolina voters added a photo ID amendment to the state Constitution, but ongoing lawsuits have stopped its enforcement. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/9b427520-3cbe-4217-a337-6e6d1d899314-north_carolina.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of North Carolina"
+			},
+			"id": "north-carolina",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "North Dakota",
+			"description": "<p>Native Americans were granted citizenship and the right to vote with the passage of the Indian Citizenship Act of 1924. But it wasn&#39;t until the passage of the Voting Rights Act in 1965 that enshrined that right. In the 40 years between, Native American voters faced poll taxes, literacy tests and intimidation, according to the Library of Congress. Now, new battles in the state are being fought over voter ID requirements. Native Americans challenged a 2013 voter ID law they said discriminated against them because of how their addresses are listed on tribal ID cards. A new version in 2017 aimed to remedy that but critics say it continues to fall short. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/fe679ac5-979c-4ab0-a7c7-87c3766d2afb-north_dakota.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of North Dakota"
+			},
+			"id": "north-dakota",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Ohio",
+			"description": "<p>Ohio has long been a middle-of-the-road bellwether for the country&#39;s politics, and its voters chose every president from 1964 until 2020. The state’s original constitution limited voting rights to white residents. But starting in 1823, that began to change with a state Supreme Court ruling paving the way for certain biracial residents to vote. In recent years, like other states controlled by Republicans, there have been efforts to put in place stricter voting rules. For instance, a GOP-backed plan pending in the legislature would limit the number of ballot drop boxes, reduce the time to request absentee ballots, and eliminate voting on the Monday before Election Day.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/84097214-5574-4a3c-b4dc-adecd8ba61ea-ohio.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Ohio"
+			},
+			"id": "ohio",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Oklahoma",
+			"description": "<p>Oklahoma has taken steps in recent years to make voting easier. Voters are allowed to cast absentee ballots by mail with no excuse, though the ballots must be requested. Voters overwhelmingly in 2010 approved a measure requiring a photo ID from the federal, state or tribal government or a voter ID card issued by a county election board to cast a ballot. Meanwhile, in 2020, the U.S. Postal Service warned Oklahoma that its seven-day deadline to request absentee ballots might not allow enough time for delivery. That deadline has changed to 15 days.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/e544f111-3cfd-41ad-838b-d21a43f8800f-oklahoma.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Oklahoma"
+			},
+			"id": "oklahoma",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Oregon",
+			"description": "<p>Oregon has a national reputation as a leader in voting access – namely through its exclusively vote-by-mail system and automatic voter registration. When Oregon adopted these policies — in 1998 and 2015, respectively — they were both first-of-their-kind efforts, with other states soon following. But the state no longer has same-day voter registration. Lawmakers, and later voters, halted it in the wake of a high-profile effort to take over Wasco County in the 1980s by the religious followers of an Indian mystic. The scheme included efforts to poison area salad bars with salmonella bacteria.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/6c6e8f83-b4dc-4df1-bd4e-75daffe9e872-oregon.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Oregon"
+			},
+			"id": "oregon",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Pennsylvania",
+			"description": "<p>Unfounded claims of widespread voter fraud in Pennsylvania are once again putting this key battleground state in the national spotlight. In 2019, Pennsylvania lawmakers passed Act 77 allowing voters to cast a ballot by mail for any reason. The option proved popular. But in the wake of the 2020 election, the law has been the target of repeated legal challenges. Meanwhile, Republican-led efforts for stricter voter ID laws and an audit of the state&#39;s voter registration system have met fierce opposition from Democratic lawmakers, either in court or through Gov. Tom Wolf&#39;s veto pen.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/b6762977-4ba0-4c33-8353-b24939858583-pennsylvania.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Pennsylvania"
+			},
+			"id": "pennsylvania",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Puerto Rico",
+			"description": "<p>As a territory, Puerto Rican citizens cannot currently vote in federal elections and are not represented by voting members of Congress. Whether Puerto Rico should become a state has long been a hot-button debate and it’s back in the forefront. The nation’s oldest Latino civil rights group is calling on Congress to approve statehood and a Democratic congressman from Arizona has introduced a bill allowing Puerto Ricans to vote on the issue. If statehood advances, voters could weigh in on federal elections and gain representation in Congress.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/90388520-7f5f-440e-9ab1-522060a36899-peurto_rico.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Puerto Rico"
+			},
+			"id": "puerto-rico",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Rhode Island",
+			"description": "<p>For Rhode island voters, changes to voting access brought on by the COVID-19 pandemic are becoming permanent. For instance, voters can continue to cast ballots in-person in the 20 days leading up to an election. They can do so at a city or town hall or other designation area. Meanwhile, Rhode Island has been at the forefront of allowing former felons to vote, passing a referendum on the issue in 2006. In 2011, Rhode Island lawmakers passed a voter ID law with bipartisan support and recent efforts to overturn it have been unsuccessful. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/ede8b02d-ea34-4481-9c33-b3cd99b808cf-rhode_island.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Rhode Island"
+			},
+			"id": "rhode-island",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "South Carolina",
+			"description": "<p>Like in other Southern states with a history of racial discrimination, the Voting Rights Act of 1965 required South Carolina to get approval from the U.S. Department of Justice to make changes to voting laws. When the U.S. Supreme Court struck down that preclearance requirement in 2013, the state enacted a photo ID law. But Republicans and Democrats have applauded a new law signed this year allowing South Carolina voters to cast ballots without excused during a two-week early voting period. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/65711380-5f32-4de8-8119-7a0263ec7c08-south_carolina.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of South Carolina"
+			},
+			"id": "south-carolina",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "South Dakota",
+			"description": "<p>Like other Western states, South Dakota has had a long and troubled past providing voting access to Native Americans. Those battles continue to this day. For instance, a federal judge ruled in May that South Dakota was not following federal voter registration laws after the Rosebud Sioux and Oglala Sioux tribes brought a lawsuit against the state in 2020. Then in August, a federal judge issued a preliminary injunction against Lyman County on behalf of the Lower Brule Tribe, which alleged the county violated their voting rights by delaying a new redistricting plan. The county must propose a new plan by the November election. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/2c01387e-f3e1-432c-a599-62c446189820-south_dakota.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of South Dakota"
+			},
+			"id": "south-dakota",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Tennessee",
+			"description": "<p>Tennessee was at the forefront of allowing voters to cast ballots early, starting in 1994. Now, more than two-thirds of voters cast ballots early. Residents have been able to register to vote online since 2017. Meanwhile, more than a half dozen counties are offering “convenient voting centers” to make voting easier and boost turnout in a state with historically low participation. But one analysis found the Volunteer State’s ease of voting rankings plummeting between 1994 and 2016, largely due to the state’s strict voter ID law. Tennessee also is one of 15 states with the longest voter registration deadline. Residents must register 30 days before an election.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/2c14b143-d784-4bb6-9b97-efc8d21c8bb9-tennessee.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Tennessee"
+			},
+			"id": "tennessee",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Texas",
+			"description": "<p>Texas has seen some of the most dramatic efforts since the 2020 election to change voter laws, a move leading to a political fight extending from Austin to Washington, D.C. Three times Democrats departed the state Capitol to try and deny Republicans the quorum they needed to pass changes to Texas election law. In the end, Republicans succeeded in banning 24-hour and drive-thru voting, putting in place ID requirements for mail-in ballots and establishing new crimes for vote harvesting and denying access to poll watchers. Democrats killed provisions making easier for a judge to overturn election results based on allegations of fraud and a measure keeping early voting sites from opening before 1 p.m. on Sundays.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/5ee4500d-e277-4862-bbb6-10ec249c8362-texas.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Texas"
+			},
+			"id": "texas",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Utah",
+			"description": "<p>Utah is a conservative state that has embraced many of the voting initiatives now under attack by supporters of former President Donald Trump. For instance, Utah is the only GOP-dominated state to embrace vote-by-mail and to defend its use, even after the 2020 election. Utah&#39;s top officials have steadfastly stuck to the idea that it can only be a good thing to make it easier to vote.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/e609d1d6-ad9e-41ea-ac99-8df797a3d8ab-utah.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Utah"
+			},
+			"id": "utah",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Vermont",
+			"description": "<p>Vermont has made voting easier in recent years and has jumped in one election performance index from 38th in the nation in 2011 to first in 2016. In 2010, Vermont voters overwhelmingly supported a constitutional amendment allowing 17-year-olds who turn 18 on or before the general election to vote in the presidential and state primaries. Vermont now has same-day voter registration, universal mail-in voting and automatic voter registration when getting a driver’s license.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/182cf07a-5066-4fb3-ba07-f0e67c484c82-vermont.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Vermont"
+			},
+			"id": "vermont",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Virginia",
+			"description": "<p>Virginia was among the last five states in the U.S. to remove poll taxes following the passage of both the Voting Rights Act and Civil Rights Act in the 1960s. But most recently, the state in the last two years has passed some of the most progressive voting measures in the South. Those include no-excuse absentee voting, automatic voter registration and declaring Election Day a state holiday. Meanwhile, Virginia became the first state enact its own version of the Voting Rights Act. But now, there are efforts to roll back some of these changes. Republican Gov. Glenn Youngkin made election integrity a campaign pillar and is pushing, among other changes, to restore the state’s voter ID law. </p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/704c4de6-6447-4e92-8d1d-7169e19c0628-virginia.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Virginia"
+			},
+			"id": "virginia",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Washington",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/1368c561-42a1-4b3f-ba53-a7286ece5dfb-washington.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Washington"
+			},
+			"id": "washington",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "West Virginia",
+			"description": "<p>Black residents and women have had notable gains in early West Virginia history. The state made history with the appointment of the first Black woman to serve in a state legislature in 1928, for instance. More recently, like many other states, West Virginia has seen debate over issues of election integrity, with Republican officials pushing for stricter requirements. The state currently requires a voter ID, a valid excuse to vote absentee and penalizes voter fraud with a sentence of 1 to 10 years. This year, the West Virginia House passed a bill that labels the crime a felony.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/dca3e926-24e1-4627-a060-57bae14c6eff-west_virginia.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of West Virginia"
+			},
+			"id": "west-virginia",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Wisconsin",
+			"description": "<p>Wisconsin was among the earliest states granting voting access to Black residents and then to women. And because elections are handled at the municipal level, for much of the 20th century, many voters didn’t even need to register to vote. For years, Wisconsin ranked near the top in voter participation. When Republicans took control of the governor’s mansion and legislature in 2010, they pushed through a vote ID law. Meanwhile, ballot boxes became more popular during the COVID-19 pandemic. But scrutiny over the hprocess led the state Supreme Court to ban unstaffed ballot boxes. As a key battleground state, Wisconsin&#39;s voting laws have been under intense national scrutiny since 2020.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/a80c5d75-0629-488d-8ddd-54b70c59de1b-wisconsin.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Wisconsin"
+			},
+			"id": "wisconsin",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		},
+		{
+			"name": "Wyoming",
+			"description": "<p>Wyoming was at the forefront of granting women the right to vote – all the way back in 1869, a full 20 years before statehood. Wyoming has been steadfast since on women’s suffrage. But at the same time, voting rights have been clouded by nativism and xenophobia. The state had literacy qualifications and federal law didn’t grant Native Americans as a whole U.S. citizenship rights until 1924. Wyoming is also one of just eight states, mostly in the South, never to have ratified the 24th Amendment ending poll taxes. More recently, the state in 2017 restored voting rights for certain felons. After the 2020 election, Republicans in the state pushed through a voter ID law.</p>",
+			"labels": [],
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/08/15/USAT/c1896823-0e46-4c74-a50f-9f2dd06e4c01-wyoming.png?crop=1919,1919,x0,y0",
+				"height": 1919,
+				"width": 1919,
+				"aspectRatio": 1,
+				"alt": "Photo of Wyoming"
+			},
+			"id": "wyoming",
+			"links": [
+				{
+					"link": "https://www.usatoday.com/story/news/politics/2022/08/15/lindsey-grahams-subpoena-georgia-grand-jury/10326888002/",
+					"text": "Voting rights guide"
+				},
+				{
+					"link": "https://www.usatoday.com/story/sports/wnba/2022/08/15/brittney-griner-lawyers-appeal-russian-prison-sentence/10326479002/",
+					"text": "Analysis"
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,68 @@
+# run tests and build scripts
+
+name: Test
+
+# triggers
+on:
+  workflow_dispatch:
+
+  # Any push to main triggers tests
+  push:
+    branches: [main]
+
+  # Any PR triggers tests
+  pull_request:
+
+jobs:
+  validate_settings:
+    runs-on: [self-hosted, cloud-engineering, tools-low]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+      - name: Validate settings
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const fs = require('fs/promises')
+            fs.readFile("./settings.json", "utf-8")
+              .then(JSON.parse)
+              .catch(e => {
+                console.error(e);
+                process.exit(1);
+              })
+  unit_tests:
+    runs-on: [self-hosted, cloud-engineering, tools-low]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "18"
+
+      # Add authentication for github packages
+      - name: Github packages
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.PRIVATE_ACTION_TOKEN }} >> ~/.npmrc
+
+      - name: Node install
+        run: make install
+
+      - name: Run the experimental tests
+        run: make test
+
+  test_build:
+    runs-on: [self-hosted, cloud-engineering, tools-low]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v2
+        with:
+          node-version: "16"
+
+      # Add authentication for github packages
+      - name: Github packages
+        run: echo //npm.pkg.github.com/:_authToken=${{ secrets.PRIVATE_ACTION_TOKEN }} >> ~/.npmrc
+
+      - name: Node install
+        run: make install
+      - name: Node build
+        run: make build

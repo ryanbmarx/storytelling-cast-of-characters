@@ -1,0 +1,5739 @@
+{
+	"top": {
+		"headline_label_premium": "Subscriber exclusive",
+		"headline_label_preview": "A preview of a subscriber exclusive",
+		"label_sign_in_button": "Sign in",
+		"label_does_not_meet_requirements": "This is for subscribers only. Join now for great journalism like this.",
+		"label_sign_up_button": "Subscribe now",
+		"theme": "light",
+		"theme_color": "#636099",
+		"background_color": "#ded4be",
+		"byline": "Staff",
+		"organization": "USA TODAY",
+		"intro_image_position": "top",
+		"serif": false,
+		"ssts": "news/investigations",
+		"ad_topic": null,
+		"display_ads": true,
+		"top_ad": "default",
+		"brandlock": false,
+		"card_image_mask": false,
+		"card_name_position": "top",
+		"card_text_alignment": "center",
+		"cta_button_text": "More",
+		"cta_match_premium_state": false,
+		"title": "Is your school skirting Title IX's intent? ",
+		"headline": "Is your school skirting Title IX's intent? ",
+		"subheadline": "See which colleges inflate their women's rosters to look more balanced.",
+		"intro": "<p><a href=\"https://www.usatoday.com/story/news/investigations/2022/05/26/methodology-behind-usa-todays-analysis-college-athletic-rosters/9924290002/\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"cast-inline-link\">In a comprehensive data analysis</a>, USA TODAY found widespread use of roster manipulation across many of the nation’s largest and best-known public colleges and universities – those in the NCAA Division 1 Football Bowl Subdivision. </p><p>Those 107 schools collectively added more than 3,600 additional participation “opportunities” for female athletes in the 2018-19 academic year without adding a single new women’s team. They did so by counting participants in a way that inflated the women’s rosters:</p><p><strong>Counting male practice players</strong></p><p>Schools can count male practice players in their report to the federal government but must omit them from their report to the NCAA. The difference between the reports can reveal the presence of such players, which serve an important role but are not women and do not play in competitions.</p><p><strong>Double and triple counting athletes</strong></p><p>Schools can count athletes more than once if they compete in more than one sport. An athlete that competes in cross country, indoor track and outdoor track gets counted as three participation opportunities to the federal government. This duplication tends to happen more often with women athletes.</p><p><strong>Padding the rowing rosters</strong></p><p>Depending on the conference, women’s rowing championships need a maximum of anywhere from 23 to 51 rowers. Teams can add more as substitutes, but how many more do they need? Based on settlement agreements from recent lawsuits, our analysis capped the rosters at 50% over the maximum, giving them anywhere from 35 to 76 rowers, depending on the conference. Any more could be roster padding. (For Wisconsin, which also sponsors a lightweight team, the max is 100.)</p><p>Eighty-six of the schools added at least eight women’s roster spots through those three methods. Those that added less than eight will show up as having added none. Scroll through the cards to see each university’s stats.</p>",
+		"contributing": "<p>– Developed by the USA TODAY NETWORK Storytelling Studio</p>",
+		"intro_image_hide_caption": "no",
+		"intro_image_hide_credit": "no",
+		"published": 1653537600000,
+		"updated": 1667429779000,
+		"description": "By padding their rowing rosters, double- and triple-counting track athletes, and classifying men as women, some of the nation's top colleges conjure the illusion of gender equity.",
+		"share_image": "9933212002",
+		"url_slug": "title-ix-athletics-roster-manipulation",
+		"required_status": "subscriber",
+		"character_layout": "card_side_by_side",
+		"character_sort_by": "name_shorter",
+		"character_sort_direction": "ascending",
+		"image_ratio": "bestCrop",
+		"labels_instructions": "Check to toggle display",
+		"bullets_header": "Enrollment and athletics",
+		"category_nav_label_instructions": "Jump directly to an athletic conference",
+		"category_nav_label": "FBS Conferences",
+		"filters_label": "Search an FBS school",
+		"next_story_id": "7438716001",
+		"max_characters": 0,
+		"thumbnail_image_ratio": "4_3",
+		"theme_color_text": "white",
+		"related_links": [
+			{
+				"link": "https://www.usatoday.com/in-depth/news/investigations/2022/05/26/college-sports-title-ix-and-dark-illusion-gender-equity/7438716001/",
+				"label": "College sports, Title IX and the dark illusion of gender equity"
+			}
+		],
+		"cst": "news/investigations",
+		"searchable": ["name", "name_shorter"],
+		"hasImages": true,
+		"cast_project": "title-ix",
+		"site_code": "USAT"
+	},
+	"categories": [
+		{
+			"id": "american-athletic",
+			"name": "American Athletic",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "acc",
+			"name": "ACC",
+			"description": "Atlantic Coast Conference",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "big-ten",
+			"name": "Big Ten",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "big-12",
+			"name": "Big 12",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "conference-usa",
+			"name": "Conference USA",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "fbs-independents",
+			"name": "FBS Independents",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "mid-american",
+			"name": "Mid-American",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "mountain-west",
+			"name": "Mountain West",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "pac-12",
+			"name": "Pac-12",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "sec",
+			"name": "SEC",
+			"description": "Southeastern Conference",
+			"character_layout": "card_side_by_side"
+		},
+		{
+			"id": "sun-belt",
+			"name": "Sun Belt",
+			"character_layout": "card_side_by_side"
+		}
+	],
+	"labels": {
+		"counting-male-practice-players": {
+			"id": "counting-male-practice-players",
+			"name": "Counting male practice players"
+		},
+		"padding-the-rowing-rosters": {
+			"id": "padding-the-rowing-rosters",
+			"name": "Padding rowing rosters"
+		},
+		"double-and-triple-counting-track-athletes": {
+			"id": "double-and-triple-counting-track-athletes",
+			"name": "Double and triple counting track athletes"
+		},
+		"none": {
+			"id": "none",
+			"name": "No noted roster manipulation"
+		}
+	},
+	"characters": [
+		{
+			"name": "University of Akron",
+			"name_shorter": "Akron",
+			"labels": ["none"],
+			"category": "mid-american",
+			"description": "<p><strong>Akron</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/124.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Akron"
+			},
+			"id": "university-of-akron",
+			"color_accent": "#a89968",
+			"color_accent_text": "black",
+			"color_accent_screen": "#eae8e1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,408"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "5,721 (46.1%) "
+				},
+				{
+					"header": "Total roster spots",
+					"text": "529"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "229 (43.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Alabama",
+			"name_shorter": "Alabama",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "sec",
+			"description": "<p><strong>Alabama</strong> added 106 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/51.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Alabama"
+			},
+			"id": "university-of-alabama",
+			"color_accent": "#9e1b32",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f5d6db",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,586"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "16,253 (54.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "758"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "416 (54.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>80 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>14 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Alabama at Birmingham",
+			"name_shorter": "Alabama-Birmingham",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "conference-usa",
+			"description": "<p><strong>Alabama-Birmingham</strong> added 47 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/146.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Alabama at Birmingham"
+			},
+			"id": "university-of-alabama-at-birmingham",
+			"color_accent": "#00704a",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cffced",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "10,042"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,054 (60.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "440"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "209 (47.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>47 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Appalachian State University",
+			"name_shorter": "Appalachian State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sun-belt",
+			"description": "<p><strong>Appalachian State</strong> added 8 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/149.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Appalachian State University"
+			},
+			"id": "appalachian-state-university",
+			"color_accent": "#222222",
+			"color_accent_text": "white",
+			"color_accent_screen": "#e6e6e6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "16,421"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,185 (55.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "602"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "271 (45.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Arizona",
+			"name_shorter": "Arizona",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "pac-12",
+			"description": "<p><strong>Arizona</strong> added 19 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/83.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Arizona"
+			},
+			"id": "university-of-arizona",
+			"color_accent": "#cc0033",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfda",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,027"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,315 (52.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "593"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "259 (43.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>19 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Arizona State University",
+			"name_shorter": "Arizona State",
+			"labels": ["counting-male-practice-players"],
+			"category": "pac-12",
+			"description": "<p><strong>Arizona State</strong> added 24 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/112.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Arizona State University"
+			},
+			"id": "arizona-state-university",
+			"color_accent": "#8c1d40",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f4d7e0",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "39,396"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "17,553 (44.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "760"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "370 (48.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>24 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Arkansas",
+			"name_shorter": "Arkansas",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sec",
+			"description": "<p><strong>Arkansas</strong> added 39 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/126.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Arkansas"
+			},
+			"id": "university-of-arkansas",
+			"color_accent": "#cf1f44",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f6d5dc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "21,005"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,266 (53.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "641"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "306 (47.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>39 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Arkansas State University",
+			"name_shorter": "Arkansas State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sun-belt",
+			"description": "<p><strong>Arkansas State</strong> added 13 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/75.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Arkansas State University"
+			},
+			"id": "arkansas-state-university",
+			"color_accent": "#ce0e2d",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f9d2d8",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "6,789"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "3,902 (57.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "491"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "213 (43.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>13 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Auburn University",
+			"name_shorter": "Auburn",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "sec",
+			"description": "<p><strong>Auburn</strong> added 14 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/84.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Auburn University"
+			},
+			"id": "auburn-university",
+			"color_accent": "#192f5b",
+			"color_accent_text": "white",
+			"color_accent_screen": "#dae2f1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,460"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,119 (49.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "595"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "291 (48.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>5 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Ball State University",
+			"name_shorter": "Ball State",
+			"labels": ["counting-male-practice-players"],
+			"category": "mid-american",
+			"description": "<p><strong>Ball State</strong> added 10 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/86.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Ball State University"
+			},
+			"id": "ball-state-university",
+			"color_accent": "#ef4043",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f9d2d3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "14,828"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,801 (59.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "507"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "272 (53.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Boise State University",
+			"name_shorter": "Boise State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "mountain-west",
+			"description": "<p><strong>Boise State</strong> added 25 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/92.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Boise State University"
+			},
+			"id": "boise-state-university",
+			"color_accent": "#233f94",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d8dff3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,787"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,016 (54.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "521"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "285 (54.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>23 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>2 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Bowling Green State University",
+			"name_shorter": "Bowling Green",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "mid-american",
+			"description": "<p><strong>Bowling Green</strong> added 23 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/85.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Bowling Green State University"
+			},
+			"id": "bowling-green-state-university",
+			"color_accent": "#fe5000",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fcddcf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,987"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,288 (56.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "464"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "235 (50.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>23 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University at Buffalo",
+			"name_shorter": "Buffalo",
+			"labels": ["none"],
+			"category": "mid-american",
+			"description": "<p><strong>Buffalo</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/145.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University at Buffalo"
+			},
+			"id": "university-at-buffalo",
+			"color_accent": "#0055b8",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe4fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,941"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,534 (42.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "506"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "227 (44.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of California-Berkeley",
+			"name_shorter": "California",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "pac-12",
+			"description": "<p><strong>California</strong> added 32 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/44.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of California-Berkeley"
+			},
+			"id": "university-of-california-berkeley",
+			"color_accent": "#003262",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe6fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,570"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,570 (52.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "989"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "478 (48.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Central Florida",
+			"name_shorter": "Central Florida",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "american-athletic",
+			"description": "<p><strong>Central Florida</strong> added 37 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/142.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Central Florida"
+			},
+			"id": "university-of-central-florida",
+			"color_accent": "#b8a569",
+			"color_accent_text": "black",
+			"color_accent_screen": "#ece9df",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "41,852"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "22,691 (54.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "517"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "272 (52.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>37 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Central Michigan University",
+			"name_shorter": "Central Michigan",
+			"labels": ["counting-male-practice-players"],
+			"category": "mid-american",
+			"description": "<p><strong>Central Michigan</strong> added 8 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/141.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Central Michigan University"
+			},
+			"id": "central-michigan-university",
+			"color_accent": "#6a0032",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfe4",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "14,264"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,191 (57.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "584"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "305 (52.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of North Carolina at Charlotte",
+			"name_shorter": "Charlotte",
+			"labels": ["none"],
+			"category": "conference-usa",
+			"description": "<p><strong>Charlotte</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/889.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of North Carolina at Charlotte"
+			},
+			"id": "university-of-north-carolina-at-charlotte",
+			"color_accent": "#08713d",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d2f9e6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "21,025"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,738 (46.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "584"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "202 (34.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Cincinnati",
+			"name_shorter": "Cincinnati",
+			"labels": ["none"],
+			"category": "american-athletic",
+			"description": "<p><strong>Cincinnati</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/46.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Cincinnati"
+			},
+			"id": "university-of-cincinnati",
+			"color_accent": "#ef0125",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fccfd6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,990"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,855 (47.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "560"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "249 (44.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Clemson University",
+			"name_shorter": "Clemson",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "acc",
+			"description": "<p><strong>Clemson</strong> added 45 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/128.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Clemson University"
+			},
+			"id": "clemson-university",
+			"color_accent": "#f58220",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fae4d1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,971"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,344 (49.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "568"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "263 (46.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>38 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>7 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Coastal Carolina University",
+			"name_shorter": "Coastal Carolina",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "sun-belt",
+			"description": "<p><strong>Coastal Carolina</strong> added 60 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/335.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Coastal Carolina University"
+			},
+			"id": "coastal-carolina-university",
+			"color_accent": "#006f71",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cffcfc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "8,941"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "4,806 (53.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "534"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "250 (46.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>48 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Colorado",
+			"name_shorter": "Colorado",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "pac-12",
+			"description": "<p><strong>Colorado</strong> added 28 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/90.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Colorado"
+			},
+			"id": "university-of-colorado",
+			"color_accent": "#1e4d2b",
+			"color_accent_text": "white",
+			"color_accent_screen": "#ddeee2",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "28,034"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "12,667 (45.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "473"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "227 (48.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>20 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Colorado State University",
+			"name_shorter": "Colorado State",
+			"labels": ["none"],
+			"category": "mountain-west",
+			"description": "<p><strong>Colorado State</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/89.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Colorado State University"
+			},
+			"id": "colorado-state-university",
+			"color_accent": "#c9c372",
+			"color_accent_text": "black",
+			"color_accent_screen": "#eeeddd",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,527"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,744 (52.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "495"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "223 (45.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Connecticut",
+			"name_shorter": "Connecticut",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "fbs-independents",
+			"description": "<p><strong>Connecticut</strong> added 38 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/144.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Connecticut"
+			},
+			"id": "university-of-connecticut",
+			"color_accent": "#000e2f",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfdcfc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,478"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,444 (51.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "785"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "398 (50.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>19 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>19 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "East Carolina University",
+			"name_shorter": "East Carolina",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "american-athletic",
+			"description": "<p><strong>East Carolina</strong> added 33 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/78.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of East Carolina University"
+			},
+			"id": "east-carolina-university",
+			"color_accent": "#592a8a",
+			"color_accent_text": "white",
+			"color_accent_screen": "#e5daf1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,562"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,065 (56.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "575"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "290 (50.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>33 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Eastern Michigan University",
+			"name_shorter": "Eastern Michigan",
+			"labels": ["padding-the-rowing-rosters"],
+			"category": "mid-american",
+			"description": "<p><strong>Eastern Michigan</strong> added 40 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/136.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Eastern Michigan University"
+			},
+			"id": "eastern-michigan-university",
+			"color_accent": "#086b38",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d2f9e5",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "11,403"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,868 (60.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "603"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "312 (51.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>40 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Florida",
+			"name_shorter": "Florida",
+			"labels": ["none"],
+			"category": "sec",
+			"description": "<p><strong>Florida</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/69.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Florida"
+			},
+			"id": "university-of-florida",
+			"color_accent": "#0021a5",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfd8fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "32,209"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "18,425 (57.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "635"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "293 (46.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Florida Atlantic University",
+			"name_shorter": "Florida Atlantic",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "conference-usa",
+			"description": "<p><strong>Florida Atlantic</strong> added 42 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/221.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Florida Atlantic University"
+			},
+			"id": "florida-atlantic-university",
+			"color_accent": "#095580",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d2ebf9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "16,436"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,228 (56.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "492"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "232 (47.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>42 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Florida International University",
+			"name_shorter": "Florida International",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "conference-usa",
+			"description": "<p><strong>Florida International</strong> added 63 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/230.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Florida International University"
+			},
+			"id": "florida-international-university",
+			"color_accent": "#b6872d",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f2ead9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "27,906"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,893 (58.0%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "504"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "265 (52.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>63 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Florida State University",
+			"name_shorter": "Florida State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "acc",
+			"description": "<p><strong>Florida State</strong> added 55 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/47.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Florida State University"
+			},
+			"id": "florida-state-university",
+			"color_accent": "#782f40",
+			"color_accent_text": "white",
+			"color_accent_screen": "#eedde1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,301"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "16,906 (57.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "658"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "336 (51.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>55 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Fresno State University",
+			"name_shorter": "Fresno State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "mountain-west",
+			"description": "<p><strong>Fresno State</strong> added 50 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/109.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Fresno State University"
+			},
+			"id": "fresno-state-university",
+			"color_accent": "#db0032",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfd9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,369"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,528 (59.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "579"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "323 (55.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>48 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>2 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Georgia",
+			"name_shorter": "Georgia",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "sec",
+			"description": "<p><strong>Georgia</strong> added 18 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/52.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Georgia"
+			},
+			"id": "university-of-georgia",
+			"color_accent": "#ba0c2f",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f9d2da",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "27,947"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,986 (57.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "666"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "337 (50.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>3 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Georgia Southern University",
+			"name_shorter": "Georgia Southern",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sun-belt",
+			"description": "<p><strong>Georgia Southern</strong> added 30 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/167.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Georgia Southern University"
+			},
+			"id": "georgia-southern-university",
+			"color_accent": "#011e41",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe3fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,502"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,595 (54.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "439"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "206 (46.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>30 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Georgia State University",
+			"name_shorter": "Georgia State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sun-belt",
+			"description": "<p><strong>Georgia State</strong> added 49 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/447.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Georgia State University"
+			},
+			"id": "georgia-state-university",
+			"color_accent": "#085eaa",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d1e7fa",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "21,057"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "12,437 (59.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "429"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "217 (50.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>49 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Georgia Institute of Technology",
+			"name_shorter": "Georgia Tech",
+			"labels": ["none"],
+			"category": "acc",
+			"description": "<p><strong>Georgia Tech</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/125.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Georgia Institute of Technology"
+			},
+			"id": "georgia-institute-of-technology",
+			"color_accent": "#bc9b6a",
+			"color_accent_text": "black",
+			"color_accent_screen": "#ede7de",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "14,318"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "5,538 (38.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "549"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "203 (37.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Hawaii",
+			"name_shorter": "Hawaii",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "mountain-west",
+			"description": "<p><strong>Hawaii</strong> added 81 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/50.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Hawaii"
+			},
+			"id": "university-of-hawaii",
+			"color_accent": "#024731",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d0fbed",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "10,739"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,158 (57.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "546"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "305 (55.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>78 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>3 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Houston",
+			"name_shorter": "Houston",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "american-athletic",
+			"description": "<p><strong>Houston</strong> added 13 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/96.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Houston"
+			},
+			"id": "university-of-houston",
+			"color_accent": "#c8102e",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f9d2d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "28,029"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "14,121 (50.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "607"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "292 (48.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>6 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>7 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Illinois",
+			"name_shorter": "Illinois",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Illinois</strong> added 21 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/72.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Illinois"
+			},
+			"id": "university-of-illinois",
+			"color_accent": "#e84a27",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f8dad3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "32,757"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,124 (46.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "627"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "292 (46.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>11 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Indiana University",
+			"name_shorter": "Indiana",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "big-ten",
+			"description": "<p><strong>Indiana</strong> added 33 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/107.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Indiana University"
+			},
+			"id": "indiana-university",
+			"color_accent": "#b31e3b",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f5d6dc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "32,109"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,953 (49.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "836"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "411 (49.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>18 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Iowa",
+			"name_shorter": "Iowa",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Iowa</strong> added 60 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/133.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Iowa"
+			},
+			"id": "university-of-iowa",
+			"color_accent": "#fed520",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fcf4cf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "21,690"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,615 (53.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "791"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "409 (51.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>18 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>32 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Iowa State University",
+			"name_shorter": "Iowa State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-12",
+			"description": "<p><strong>Iowa State</strong> added 13 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/101.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Iowa State University"
+			},
+			"id": "iowa-state-university",
+			"color_accent": "#c8102e",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f9d2d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "27,929"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,886 (42.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "541"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "250 (46.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>3 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Kansas",
+			"name_shorter": "Kansas",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-12",
+			"description": "<p><strong>Kansas</strong> added 51 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/49.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Kansas"
+			},
+			"id": "university-of-kansas",
+			"color_accent": "#0051ba",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe3fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "17,333"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,940 (51.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "654"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "339 (51.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>35 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>3 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>13 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Kansas State University",
+			"name_shorter": "Kansas State",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "big-12",
+			"description": "<p><strong>Kansas State</strong> added 62 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/130.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Kansas State University"
+			},
+			"id": "kansas-state-university",
+			"color_accent": "#502d82",
+			"color_accent_text": "white",
+			"color_accent_screen": "#e4dcef",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "16,230"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,576 (46.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "579"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "275 (47.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>42 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>20 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Kent State University",
+			"name_shorter": "Kent State",
+			"labels": ["none"],
+			"category": "mid-american",
+			"description": "<p><strong>Kent State</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/123.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Kent State University"
+			},
+			"id": "kent-state-university",
+			"color_accent": "#1f3d73",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d9e2f2",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,640"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,583 (62.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "561"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "274 (48.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Kentucky",
+			"name_shorter": "Kentucky",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sec",
+			"description": "<p><strong>Kentucky</strong> added 9 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/122.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Kentucky"
+			},
+			"id": "university-of-kentucky",
+			"color_accent": "#0361aa",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe8fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "20,484"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,442 (55.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "595"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "257 (43.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Louisiana State University",
+			"name_shorter": "LSU",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sec",
+			"description": "<p><strong>LSU</strong> added 24 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/116.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Louisiana State University"
+			},
+			"id": "louisiana-state-university",
+			"color_accent": "#fdb925",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fceecf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,418"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,882 (53.0%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "575"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "282 (49.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>24 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Louisiana Tech University",
+			"name_shorter": "Louisiana Tech",
+			"labels": ["none"],
+			"category": "conference-usa",
+			"description": "<p><strong>Louisiana Tech</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/57.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Louisiana Tech University"
+			},
+			"id": "louisiana-tech-university",
+			"color_accent": "#002f8b",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfdefc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "8,147"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "3,651 (44.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "433"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "192 (44.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Louisiana at Lafayette",
+			"name_shorter": "Louisiana-Lafayette",
+			"labels": ["none"],
+			"category": "sun-belt",
+			"description": "<p><strong>Louisiana-Lafayette</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/38.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Louisiana at Lafayette"
+			},
+			"id": "university-of-louisiana-at-lafayette",
+			"color_accent": "#ce181e",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f7d4d5",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,423"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,918 (55.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "454"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "172 (37.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Louisiana at Monroe",
+			"name_shorter": "Louisiana-Monroe",
+			"labels": ["none"],
+			"category": "sun-belt",
+			"description": "<p><strong>Louisiana-Monroe</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/137.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Louisiana at Monroe"
+			},
+			"id": "university-of-louisiana-at-monroe",
+			"color_accent": "#840029",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfdd",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "5,040"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "3,162 (62.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "448"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "181 (40.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Louisville",
+			"name_shorter": "Louisville",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "acc",
+			"description": "<p><strong>Louisville</strong> added 26 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/61.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Louisville"
+			},
+			"id": "university-of-louisville",
+			"color_accent": "#c10230",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfda",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "11,930"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,430 (53.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "673"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "340 (50.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>11 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Marshall University",
+			"name_shorter": "Marshall",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "conference-usa",
+			"description": "<p><strong>Marshall</strong> added 53 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/118.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Marshall University"
+			},
+			"id": "marshall-university",
+			"color_accent": "#068643",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d1fae5",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "7,460"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "4,240 (56.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "417"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "212 (50.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>53 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Maryland",
+			"name_shorter": "Maryland",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "big-ten",
+			"description": "<p><strong>Maryland</strong> added 63 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/60.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Maryland"
+			},
+			"id": "university-of-maryland",
+			"color_accent": "#e03a3e",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f6d5d6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "28,501"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "13,496 (47.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "583"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "268 (46.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>63 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Massachusetts",
+			"name_shorter": "Massachusetts",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "fbs-independents",
+			"description": "<p><strong>Massachusetts</strong> added 92 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/207.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Massachusetts"
+			},
+			"id": "university-of-massachusetts",
+			"color_accent": "#801121",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f6d5d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "21,784"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,699 (49.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "755"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "376 (49.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>30 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>42 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>20 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Memphis",
+			"name_shorter": "Memphis",
+			"labels": ["none"],
+			"category": "american-athletic",
+			"description": "<p><strong>Memphis</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/37.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Memphis"
+			},
+			"id": "university-of-memphis",
+			"color_accent": "#014386",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe5fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,064"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,956 (57.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "494"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "194 (39.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Miami University",
+			"name_shorter": "Miami (Ohio)",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "mid-american",
+			"description": "<p><strong>Miami (Ohio)</strong> added 59 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/121.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Miami University"
+			},
+			"id": "miami-university",
+			"color_accent": "#e21d38",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f7d4d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "16,714"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,349 (50.0%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "672"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "348 (51.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>47 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Michigan",
+			"name_shorter": "Michigan",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Michigan</strong> added 87 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/103.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Michigan"
+			},
+			"id": "university-of-michigan",
+			"color_accent": "#00274c",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe6fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,245"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "14,657 (50.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "1,122"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "564 (50.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>36 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>22 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>29 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Michigan State University",
+			"name_shorter": "Michigan State",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Michigan State</strong> added 36 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/113.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Michigan State University"
+			},
+			"id": "michigan-state-university",
+			"color_accent": "#02513a",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d0fbef",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "35,744"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "18,313 (51.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "900"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "449 (49.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>13 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>23 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Middle Tennessee State University",
+			"name_shorter": "Middle Tennessee",
+			"labels": ["none"],
+			"category": "conference-usa",
+			"description": "<p><strong>Middle Tennessee</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/143.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Middle Tennessee State University"
+			},
+			"id": "middle-tennessee-state-university",
+			"color_accent": "#0b7abf",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d1eafa",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "15,511"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,354 (53.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "411"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "148 (36.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Minnesota",
+			"name_shorter": "Minnesota",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Minnesota</strong> added 50 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/140.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Minnesota"
+			},
+			"id": "university-of-minnesota",
+			"color_accent": "#7a0019",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfd8",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "30,001"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "16,071 (53.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "874"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "445 (50.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>33 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>17 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Mississippi",
+			"name_shorter": "Mississippi",
+			"labels": ["none"],
+			"category": "sec",
+			"description": "<p><strong>Mississippi</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/77.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Mississippi"
+			},
+			"id": "university-of-mississippi",
+			"color_accent": "#cd2030",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f6d5d8",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "16,636"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,469 (56.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "480"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "204 (42.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Mississippi State University",
+			"name_shorter": "Mississippi State",
+			"labels": ["counting-male-practice-players"],
+			"category": "sec",
+			"description": "<p><strong>Mississippi State</strong> added 16 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/76.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Mississippi State University"
+			},
+			"id": "mississippi-state-university",
+			"color_accent": "#660000",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfcf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "16,839"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,462 (50.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "533"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "228 (42.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>16 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Missouri",
+			"name_shorter": "Missouri",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sec",
+			"description": "<p><strong>Missouri</strong> added 33 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/119.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Missouri"
+			},
+			"id": "university-of-missouri",
+			"color_accent": "#000000",
+			"color_accent_text": "white",
+			"color_accent_screen": "#e6e6e6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "20,720"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,965 (52.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "659"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "315 (47.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>33 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Nebraska",
+			"name_shorter": "Nebraska",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Nebraska</strong> added 41 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/55.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Nebraska"
+			},
+			"id": "university-of-nebraska",
+			"color_accent": "#e41c38",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f7d4d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,466"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,258 (47.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "845"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "403 (47.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>19 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>22 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Nevada-Reno",
+			"name_shorter": "Nevada",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "mountain-west",
+			"description": "<p><strong>Nevada</strong> added 53 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/135.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Nevada-Reno"
+			},
+			"id": "university-of-nevada-reno",
+			"color_accent": "#193f60",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d9e6f2",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "15,200"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,987 (52.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "441"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "245 (55.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>53 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Nevada-Las Vegas",
+			"name_shorter": "Nevada-Las Vegas",
+			"labels": ["counting-male-practice-players"],
+			"category": "mountain-west",
+			"description": "<p><strong>Nevada-Las Vegas</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/108.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Nevada-Las Vegas"
+			},
+			"id": "university-of-nevada-las-vegas",
+			"color_accent": "#cf1f44",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f6d5dc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,764"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,713 (57.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "469"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "246 (52.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>4 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of New Mexico",
+			"name_shorter": "New Mexico",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "mountain-west",
+			"description": "<p><strong>New Mexico</strong> added 57 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/63.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of New Mexico"
+			},
+			"id": "university-of-new-mexico",
+			"color_accent": "#ba0c2f",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f9d2da",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "13,624"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,589 (55.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "578"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "283 (49.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>53 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>4 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "New Mexico State University",
+			"name_shorter": "New Mexico State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "fbs-independents",
+			"description": "<p><strong>New Mexico State</strong> added 63 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/74.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of New Mexico State University"
+			},
+			"id": "new-mexico-state-university",
+			"color_accent": "#861f41",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f3d8e1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "9,712"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "5,371 (55.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "480"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "255 (53.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>63 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of North Carolina",
+			"name_shorter": "North Carolina",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "acc",
+			"description": "<p><strong>North Carolina</strong> added 19 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/65.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of North Carolina"
+			},
+			"id": "university-of-north-carolina",
+			"color_accent": "#7bafd4",
+			"color_accent_text": "black",
+			"color_accent_screen": "#dbe7f0",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,526"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,062 (59.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "989"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "442 (44.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>17 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>2 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "North Carolina State University",
+			"name_shorter": "North Carolina State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "acc",
+			"description": "<p><strong>North Carolina State</strong> added 14 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/79.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of North Carolina State University"
+			},
+			"id": "north-carolina-state-university",
+			"color_accent": "#e03b3f",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f5d6d6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,317"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,524 (47.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "656"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "275 (41.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>14 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of North Texas",
+			"name_shorter": "North Texas",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "conference-usa",
+			"description": "<p><strong>North Texas</strong> added 12 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/99.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of North Texas"
+			},
+			"id": "university-of-north-texas",
+			"color_accent": "#00853e",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cffce4",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "25,394"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "14,506 (53.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "443"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "223 (50.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>5 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>7 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Northern Illinois University",
+			"name_shorter": "Northern Illinois",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "mid-american",
+			"description": "<p><strong>Northern Illinois</strong> added 53 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/68.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Northern Illinois University"
+			},
+			"id": "northern-illinois-university",
+			"color_accent": "#ba0c2f",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f9d2da",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "11,190"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "5,676 (50.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "436"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "200 (45.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>53 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Ohio University",
+			"name_shorter": "Ohio",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "mid-american",
+			"description": "<p><strong>Ohio</strong> added 65 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/117.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Ohio University"
+			},
+			"id": "ohio-university",
+			"color_accent": "#00694e",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cffcf1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "17,046"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,278 (54.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "479"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "247 (51.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>65 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Ohio State University",
+			"name_shorter": "Ohio State",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "big-ten",
+			"description": "<p><strong>Ohio State</strong> added 50 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/105.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Ohio State University"
+			},
+			"id": "ohio-state-university",
+			"color_accent": "#bb0000",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfcf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "42,831"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "20,873 (48.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "1,169"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "547 (46.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>31 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>19 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Oklahoma",
+			"name_shorter": "Oklahoma",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-12",
+			"description": "<p><strong>Oklahoma</strong> added 60 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/139.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Oklahoma"
+			},
+			"id": "university-of-oklahoma",
+			"color_accent": "#aa1d37",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f5d6dc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,063"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,710 (50.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "745"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "369 (49.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>40 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Oklahoma State University",
+			"name_shorter": "Oklahoma State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-12",
+			"description": "<p><strong>Oklahoma State</strong> added 69 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/53.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Oklahoma State University"
+			},
+			"id": "oklahoma-state-university",
+			"color_accent": "#ff7300",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fce3cf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "17,722"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,754 (49.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "629"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "306 (48.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>60 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Old Dominion University",
+			"name_shorter": "Old Dominion",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "conference-usa",
+			"description": "<p><strong>Old Dominion</strong> added 10 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/471.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Old Dominion University"
+			},
+			"id": "old-dominion-university",
+			"color_accent": "#003057",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe8fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "15,003"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,243 (54.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "475"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "201 (42.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>4 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>6 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Oregon",
+			"name_shorter": "Oregon",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "pac-12",
+			"description": "<p><strong>Oregon</strong> added 27 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/39.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Oregon"
+			},
+			"id": "university-of-oregon",
+			"color_accent": "#333333",
+			"color_accent_text": "white",
+			"color_accent_screen": "#e6e6e6",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "17,550"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,491 (54.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "563"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "278 (49.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>16 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>11 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Oregon State University",
+			"name_shorter": "Oregon State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "pac-12",
+			"description": "<p><strong>Oregon State</strong> added 69 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/81.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Oregon State University"
+			},
+			"id": "oregon-state-university",
+			"color_accent": "#dc4405",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fbdcd0",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,591"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,524 (45.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "598"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "293 (49.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>57 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Pennsylvania State University",
+			"name_shorter": "Penn State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Penn State</strong> added 30 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/59.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Pennsylvania State University"
+			},
+			"id": "pennsylvania-state-university",
+			"color_accent": "#041e42",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d1e2fa",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "39,321"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "18,504 (47.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "981"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "425 (43.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>13 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>17 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Purdue University",
+			"name_shorter": "Purdue",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "big-ten",
+			"description": "<p><strong>Purdue</strong> added 9 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/35.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Purdue University"
+			},
+			"id": "purdue-university",
+			"color_accent": "#ceb888",
+			"color_accent_text": "black",
+			"color_accent_screen": "#eee8dd",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "31,849"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "13,510 (42.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "601"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "257 (42.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Rutgers University",
+			"name_shorter": "Rutgers",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Rutgers</strong> added 43 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/129.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Rutgers University"
+			},
+			"id": "rutgers-university",
+			"color_accent": "#ef4043",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f9d2d3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "34,052"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "17,105 (50.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "810"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "415 (51.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>20 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>10 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>13 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "San Diego State University",
+			"name_shorter": "San Diego State",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "mountain-west",
+			"description": "<p><strong>San Diego State</strong> added 82 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/132.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of San Diego State University"
+			},
+			"id": "san-diego-state-university",
+			"color_accent": "#d3bd8b",
+			"color_accent_text": "black",
+			"color_accent_screen": "#eee9dd",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "27,453"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,140 (55.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "604"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "383 (63.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>67 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "San Jose State University",
+			"name_shorter": "San Jose State",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "mountain-west",
+			"description": "<p><strong>San Jose State</strong> added 12 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/43.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of San Jose State University"
+			},
+			"id": "san-jose-state-university",
+			"color_accent": "#0055a2",
+			"color_accent_text": "white",
+			"color_accent_screen": "#cfe7fc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "23,099"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,499 (49.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "564"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "263 (46.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of South Alabama",
+			"name_shorter": "South Alabama",
+			"labels": ["none"],
+			"category": "sun-belt",
+			"description": "<p><strong>South Alabama</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/459.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of South Alabama"
+			},
+			"id": "university-of-south-alabama",
+			"color_accent": "#1d427c",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d8e3f3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "8,637"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "5,114 (59.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "449"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "175 (39.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of South Carolina",
+			"name_shorter": "South Carolina",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "sec",
+			"description": "<p><strong>South Carolina</strong> added 56 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/161.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of South Carolina"
+			},
+			"id": "university-of-south-carolina",
+			"color_accent": "#cf1f44",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f6d5dc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "25,633"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "13,688 (53.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "690"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "358 (51.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>38 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>18 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of South Florida",
+			"name_shorter": "South Florida",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "american-athletic",
+			"description": "<p><strong>South Florida</strong> added 64 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/204.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of South Florida"
+			},
+			"id": "university-of-south-florida",
+			"color_accent": "#105640",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d7f4eb",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "24,834"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "13,762 (55.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "574"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "309 (53.8%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>55 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Southern Mississippi",
+			"name_shorter": "Southern Mississippi",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "conference-usa",
+			"description": "<p><strong>Southern Mississippi</strong> added 49 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/58.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Southern Mississippi"
+			},
+			"id": "university-of-southern-mississippi",
+			"color_accent": "#ffc627",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fcf0cf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "9,846"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,383 (64.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "396"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "175 (44.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>46 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>3 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Tennessee",
+			"name_shorter": "Tennessee",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "sec",
+			"description": "<p><strong>Tennessee</strong> added 79 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/114.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Tennessee"
+			},
+			"id": "university-of-tennessee",
+			"color_accent": "#f9a23b",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fbe7d0",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "21,489"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "10,972 (51.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "707"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "357 (50.5%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>65 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>14 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Texas at Austin",
+			"name_shorter": "Texas",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "big-12",
+			"description": "<p><strong>Texas</strong> added 65 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/131.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Texas at Austin"
+			},
+			"id": "university-of-texas-at-austin",
+			"color_accent": "#de7026",
+			"color_accent_text": "black",
+			"color_accent_screen": "#f6e2d5",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "38,097"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "20,664 (54.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "688"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "346 (50.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>43 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Texas A & M University",
+			"name_shorter": "Texas A&M",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "sec",
+			"description": "<p><strong>Texas A&amp;M</strong> added 34 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/120.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Texas A & M University"
+			},
+			"id": "texas-a--m-university",
+			"color_accent": "#772224",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f1dada",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "47,399"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "22,601 (47.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "817"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "413 (50.6%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>19 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Texas State University",
+			"name_shorter": "Texas State",
+			"labels": ["none"],
+			"category": "sun-belt",
+			"description": "<p><strong>Texas State</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/233.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Texas State University"
+			},
+			"id": "texas-state-university",
+			"color_accent": "#501214",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f3d8d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "28,042"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "16,417 (58.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "442"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "182 (41.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Texas Tech University",
+			"name_shorter": "Texas Tech",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "big-12",
+			"description": "<p><strong>Texas Tech</strong> added 12 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/64.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Texas Tech University"
+			},
+			"id": "texas-tech-university",
+			"color_accent": "#cc0000",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfcf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "27,648"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "12,986 (47.0%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "574"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "247 (43.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Texas at El Paso",
+			"name_shorter": "Texas-El Paso",
+			"labels": ["none"],
+			"category": "conference-usa",
+			"description": "<p><strong>Texas-El Paso</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/41.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Texas at El Paso"
+			},
+			"id": "university-of-texas-at-el-paso",
+			"color_accent": "#041e42",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d1e2fa",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "14,044"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,346 (52.3%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "394"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "167 (42.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Texas at San Antonio",
+			"name_shorter": "Texas-San Antonio",
+			"labels": ["none"],
+			"category": "conference-usa",
+			"description": "<p><strong>Texas-San Antonio</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/461.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Texas at San Antonio"
+			},
+			"id": "university-of-texas-at-san-antonio",
+			"color_accent": "#192f5b",
+			"color_accent_text": "white",
+			"color_accent_screen": "#dae2f1",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,542"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,447 (50.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "480"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "183 (38.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Toledo",
+			"name_shorter": "Toledo",
+			"labels": ["counting-male-practice-players"],
+			"category": "mid-american",
+			"description": "<p><strong>Toledo</strong> added 18 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/82.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Toledo"
+			},
+			"id": "university-of-toledo",
+			"color_accent": "#ffda00",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fcf6cf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,941"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "6,330 (48.9%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "452"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "257 (56.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>18 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Troy University",
+			"name_shorter": "Troy",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "sun-belt",
+			"description": "<p><strong>Troy</strong> added 47 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/196.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Troy University"
+			},
+			"id": "troy-university",
+			"color_accent": "#8a2432",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f2d9dd",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "9,161"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "5,605 (61.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "464"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "210 (45.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>47 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of California-Los Angeles",
+			"name_shorter": "UCLA",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "pac-12",
+			"description": "<p><strong>UCLA</strong> added 83 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/91.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of California-Los Angeles"
+			},
+			"id": "university-of-california-los-angeles",
+			"color_accent": "#2d68c4",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d8e3f3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "31,009"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "18,011 (58.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "820"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "453 (55.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>35 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>32 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>16 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Utah",
+			"name_shorter": "Utah",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "pac-12",
+			"description": "<p><strong>Utah</strong> added 77 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/93.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Utah"
+			},
+			"id": "university-of-utah",
+			"color_accent": "#cc0000",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfcf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "18,499"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,731 (47.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "586"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "282 (48.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>77 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Utah State University",
+			"name_shorter": "Utah State",
+			"labels": [
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "mountain-west",
+			"description": "<p><strong>Utah State</strong> added 36 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/100.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Utah State University"
+			},
+			"id": "utah-state-university",
+			"color_accent": "#14345a",
+			"color_accent_text": "white",
+			"color_accent_screen": "#d8e4f3",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "17,393"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,036 (52.0%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "678"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "338 (49.9%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>28 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Virginia",
+			"name_shorter": "Virginia",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "acc",
+			"description": "<p><strong>Virginia</strong> added 37 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/134.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Virginia"
+			},
+			"id": "university-of-virginia",
+			"color_accent": "#f84c1e",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fbd9d0",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "15,990"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "8,710 (54.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "861"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "397 (46.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>22 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>15 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Virginia Polytechnic Institute",
+			"name_shorter": "Virginia Tech",
+			"labels": ["counting-male-practice-players"],
+			"category": "acc",
+			"description": "<p><strong>Virginia Tech</strong> added 9 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/45.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Virginia Polytechnic Institute"
+			},
+			"id": "virginia-polytechnic-institute",
+			"color_accent": "#630031",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fccfe5",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "27,180"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "11,733 (43.2%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "659"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "279 (42.3%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>9 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Washington",
+			"name_shorter": "Washington",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "pac-12",
+			"description": "<p><strong>Washington</strong> added 79 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/54.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Washington"
+			},
+			"id": "university-of-washington",
+			"color_accent": "#4b2e83",
+			"color_accent_text": "white",
+			"color_accent_screen": "#e2dcef",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,496"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,840 (53.7%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "781"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "368 (47.1%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>27 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>48 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>4 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Washington State University",
+			"name_shorter": "Washington State",
+			"labels": ["padding-the-rowing-rosters", "counting-male-practice-players"],
+			"category": "pac-12",
+			"description": "<p><strong>Washington State</strong> added 29 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/40.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Washington State University"
+			},
+			"id": "washington-state-university",
+			"color_accent": "#981e32",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f4d7dc",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "22,877"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "12,014 (52.5%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "620"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "305 (49.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>21 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>8 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "West Virginia University",
+			"name_shorter": "West Virginia",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes",
+				"counting-male-practice-players"
+			],
+			"category": "big-12",
+			"description": "<p><strong>West Virginia</strong> added 83 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/62.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of West Virginia University"
+			},
+			"id": "west-virginia-university",
+			"color_accent": "#eaaa00",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fcf0cf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "19,568"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "9,397 (48.0%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "591"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "292 (49.4%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>21 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>50 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>12 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Western Kentucky University",
+			"name_shorter": "Western Kentucky",
+			"labels": ["none"],
+			"category": "conference-usa",
+			"description": "<p><strong>Western Kentucky</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/189.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Western Kentucky University"
+			},
+			"id": "western-kentucky-university",
+			"color_accent": "#c60c30",
+			"color_accent_text": "white",
+			"color_accent_screen": "#fad1d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "12,393"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,144 (57.6%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "420"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "147 (35.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "Western Michigan University",
+			"name_shorter": "Western Michigan",
+			"labels": ["none"],
+			"category": "mid-american",
+			"description": "<p><strong>Western Michigan</strong> did not add any women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/67.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of Western Michigan University"
+			},
+			"id": "western-michigan-university",
+			"color_accent": "#6c4023",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f0e3db",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "14,983"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "7,246 (48.4%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "443"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "227 (51.2%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Wisconsin",
+			"name_shorter": "Wisconsin",
+			"labels": [
+				"padding-the-rowing-rosters",
+				"double-and-triple-counting-track-athletes"
+			],
+			"category": "big-ten",
+			"description": "<p><strong>Wisconsin</strong> added 89 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/111.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Wisconsin"
+			},
+			"id": "university-of-wisconsin",
+			"color_accent": "#b6282e",
+			"color_accent_text": "white",
+			"color_accent_screen": "#f3d8d9",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "29,375"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "15,209 (51.8%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "926"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "472 (51.0%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>65 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>24 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		},
+		{
+			"name": "University of Wyoming",
+			"name_shorter": "Wyoming",
+			"labels": ["double-and-triple-counting-track-athletes"],
+			"category": "mountain-west",
+			"description": "<p><strong>Wyoming</strong> added 50 women’s roster spots by gaming the numbers</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/usat-storytelling/marx/title-ix-logo-cards/87.png",
+				"height": 2769,
+				"width": 2000,
+				"aspectRatio": 0.7222824124232575,
+				"alt": "Photo of University of Wyoming"
+			},
+			"id": "university-of-wyoming",
+			"color_accent": "#ffc425",
+			"color_accent_text": "black",
+			"color_accent_screen": "#fcf0cf",
+			"color_accent_screen_text": "black",
+			"bullets": [
+				{
+					"header": "Total undergraduates",
+					"text": "8,457"
+				},
+				{
+					"header": "Women undergraduates",
+					"text": "4,153 (49.1%)"
+				},
+				{
+					"header": "Total roster spots",
+					"text": "528"
+				},
+				{
+					"header": "Women's roster spots",
+					"text": "257 (48.7%)"
+				}
+			],
+			"blurbs": [
+				{
+					"header": "Gaming the numbers",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by padding its rowing roster</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>50 women’s roster spots</strong> were added by double- and triple-counting track and cross country athletes</p>"
+				},
+				{
+					"header": "",
+					"text": "<p><strong>0 women’s roster spots</strong> were added by counting male practice players</p>"
+				}
+			]
+		}
+	]
+}

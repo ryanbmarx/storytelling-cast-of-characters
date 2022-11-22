@@ -1,0 +1,307 @@
+html body {
+	/* GREY */
+	--grey-slate: #303030;
+	--grey-medium: #666;
+	--grey-medium-light: #909090;
+
+	/* Not accessible over white. */
+	--grey-light: #f3f3f3;
+
+	/* Colors */
+	--color-accent: #009bff;
+	--color-accent-text: #ffffff;
+	--color-background: #ffffff;
+	--color-font: var(--grey-slate);
+	--color-font-muted: var(--grey-medium);
+	--color-font-very-muted: var(--grey-medium-light);
+	--color-screen-light: var(--grey-light);
+	--transition: 150ms;
+	--image-fpo-background: var(--grey-light) radial-gradient(#efefef, #ccc);
+	--s2-color-ad-wrapper: var(--color-background);
+
+	/* Scaffoldinfg and spacing */
+	--cast-grid-gap: 30px;
+	--cast-inner-gap: 1rem;
+	--max-width: 1300px;
+	--max-width-content: 650px;
+	--touch-target: 44px;
+	--cast-padding-horiz: 15px;
+	--cast-controls-width: 100%;
+	--cast-controls-padding: 30px;
+	--cast-badge-width: 2rem;
+	--cast-badge-height: 2rem;
+	--cast-badge-margin: 0.5rem;
+
+	/* Typography */
+	--font-size-base: 17px;
+	--font-size-small: 14px;
+	--fonts-sans-serif: "Unify Sans", Helvetica, Arial, sans-serif;
+	--fonts-serif: Georgia, TimesNewRoman, "Times New Roman", Times, serif;
+
+	/* UI -- CHECKBOXES */
+	--checkbox-size: 30px;
+	--checkbox-border-radius: 0;
+	--checkbox-color-box: var(--grey-medium);
+	--checkbox-margin: 10px;
+
+	/* UI -- BUTTONS */
+	--font-size-buttons: var(--font-size-small);
+	--btn-border-radius: 0;
+	--btn-color-text: var(--color-background);
+	--btn-color-border: var(--color-font);
+	--btn-color-background: var(--color-font);
+
+	/* UI -- TEXT SEARCH */
+
+	--input-text-border-radius: 0;
+	/* --input-text-height */
+	--input-text-color-background: var(--color-background);
+	--input-text-color-accent: var(--color-accent);
+	--input-text-color-font: var(--color-font);
+
+	/* UI -- SHARE BUTTONS */
+	--share-margin: 0;
+
+	/* IMAGES */
+	--font-size-image-caption: var(--font-size-small);
+
+	/* UW FIX-ITS */
+	--cast-nav-height: 56px;
+	--font-color: var(--color-font) !important;
+	--type-primary: var(--color-font) !important;
+	--background-color: var(--color-background) !important;
+
+	background-color: var(--background-color) !important;
+}
+
+html body.scroll-lock {
+	overflow: hidden;
+}
+
+#cast {
+	background: var(--color-background);
+}
+
+.cast[data-theme="dark"] {
+	--color-font: #eee;
+	--color-font-muted: #aaa;
+	--color-font-very-muted: #777;
+	--color-screen-light: #333;
+}
+
+.cast {
+	max-width: var(--max-width);
+	margin: 0 auto;
+	padding: var(--cast-nav-height) var(--cast-padding-horiz);
+}
+
+.cast-section {
+	width: 100%;
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+.cast-section--skinny {
+	max-width: 650px;
+	margin: 0 auto;
+}
+
+.cast.cast--controls .cast-section {
+	/* Gives us nav + gap space between sections */
+	padding-top: calc(var(--cast-nav-height) + var(--cast-grid-gap));
+	/* Pulls content closer, so the net space is grid gap. */
+	/* This keeps anchor links from landing _under_ the sticky nav */
+	margin: calc(-1 * var(--cast-nav-height)) auto var(--cast-grid-gap) auto;
+}
+
+.cast-section:first-child {
+	padding-top: 0;
+	margin-top: 0;
+}
+
+.cast-section--content-width {
+	max-width: var(--max-width-content);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.cast-label,
+h1.cast-label,
+h2.cast-label,
+h3.cast-label,
+h4.cast-label {
+	/* FUUW */
+	margin: 0 0 var(--cast-grid-gap) 0;
+}
+.cast-label__text {
+	font: 400 21px/1em var(--fonts-serif);
+	color: var(--color-font);
+	margin-bottom: 0.25em;
+	display: block;
+}
+.cast-label__subtext {
+	display: block;
+	font: 400 var(--font-size-small) / 1.3em var(--fonts-serif);
+	color: var(--color-font-muted);
+}
+
+.cast ul:not([class]) li,
+.cast p {
+	font: var(--font-size-base) / 1.3em var(--fonts-serif, serif);
+	color: var(--color-font);
+	margin: 1em 0;
+}
+
+.cast a {
+	font-weight: bold;
+	color: var(--color-font);
+	text-decoration-color: var(--color-accent);
+}
+
+/* Applies a pseudo element as a background to allow the CSS var background color to be slightly transparent */
+.translucent-background::after {
+	content: "";
+	display: block;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: var(--color-background);
+	opacity: 0.9;
+	z-index: -1;
+}
+
+/* SOME INTERNAL SCAFFOLDING FOR CHARACTERS */
+/* ---------------------------------------- */
+
+.character__text {
+	/* Contains floats */
+	display: flow-root;
+}
+.character__text > * {
+	/* Sets a uniform spacing */
+	margin-bottom: var(--cast-inner-gap);
+}
+.character__text > *:last-child {
+	/* Pick up the last item in the text content.  */
+	margin-bottom: 0;
+}
+
+/* CONTRIBUTING TAGS AT BOTTOM */
+/* --------------------------- */
+
+.contributing ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.contributing p,
+.contributing li {
+	font: var(--font-size-small) / 1.3em var(--fonts-sans-serif);
+	color: var(--color-font-muted);
+}
+
+/* SOME UNIVERSAL STUFF FOR CHARACTERS */
+.character {
+	font: var(--font-size-base) / 1.4em var(--fonts-serif);
+	color: var(--color-font);
+	margin: 0;
+}
+
+.character__subheadline {
+	/* Subheaders within a character, in front of blurbs or lists. */
+	font: bold var(--font-size-base) / 1.3em var(--fonts-sans-serif);
+	margin-bottom: 0.25em;
+	margin-top: 0;
+}
+
+.character__subheadline ~ ul {
+	/* Make sure the lists have a good style, too. */
+	font: var(--font-size-base) / 1.3em var(--fonts-sans-serif);
+	margin: 1rem 0;
+	list-style: disc;
+	padding: 0 0 0 1em;
+}
+
+/* ADVERTISING */
+/* --------------------------- */
+
+.ad-wrapper {
+	margin-inline: auto;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+[data-meets-required-status="false"] .cast-section + .ad-wrapper,
+[data-meets-required-status="false"] .characters .ad {
+	/* This hides ads _in between_ characters when the user is not logged in. They collide with the roadblock */
+	display: none;
+}
+
+#cast > .ad-wrapper:nth-child(1),
+#cast > .ad-wrapper:nth-child(2) {
+	/* For the first ad on the page (and its mobile counterpart) */
+	margin-top: 1rem;
+}
+
+.character:not(.visible) + .ad {
+	/* An inline ad must be immediately after a visible character to display. This keeps long lists of characters from being filetered away, leaving nothing but a stack of ads.*/
+	display: none;
+}
+
+/* WHEN CAST OF CHARACTERS IS NEXT-UP */
+/* --------------------------- */
+
+.next-in-depth-story #cast .cast {
+	/* Adopt the article theme colors */
+	--color-accent: var(--theme-color);
+	--color-accent-text: var(--theme-color-text);
+	--color-background: var(--background-color);
+	padding: 0 var(--cast-padding-horiz);
+}
+
+.next-in-depth-story #cast .cast-section {
+	max-width: var(--max-width);
+	margin-left: auto;
+	margin-right: auto;
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.next-in-depth-story #cast .cast-section--content-width {
+	max-width: none;
+	padding-left: var(--article-padding-horiz, 20px);
+	padding-right: var(--article-padding-horiz, 20px);
+}
+
+#cast > .ad-wrapper {
+	/* Add a little space between the top/large ad and the <header> */
+	margin-bottom: var(--cast-grid-gap);
+}
+
+#mainContentSection > .article-inner {
+	overflow-x: unset;
+}
+
+/* WHEN IN-DEPTH IS NEXT-UP */
+/* --------------------------- */
+
+#cast > .next-in-depth-story {
+	margin: 0;
+}
+
+#cast > .next-in-depth-story .topper[data-layout="fullscreen"] {
+	margin-top: 0;
+}
+
+@media all and (min-width: 1024px) {
+	html body {
+		--cast-controls-width: 300px;
+		--cast-controls-padding: 15px;
+	}
+}

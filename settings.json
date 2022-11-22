@@ -1,0 +1,210 @@
+{
+  "scotus-may-2022": {
+    "slug": "abortion-laws-states-roe",
+    "spreadsheet_key": "16sbU9HDHL6n_bb4gneL4OBZmeOnunDzUvin-7y_PiME",
+    "domain": "usatoday.com",
+    "site_code": "USAT",
+    "twitter": "usatoday"
+  },
+  "title-ix": {
+    "slug": "title-ix-athletics-roster-manipulation",
+    "spreadsheet_key": "1rrELCtrGW8wwh4b8_Y40j2hsROG3V4S_Z956mSjSTTA",
+    "domain": "usatoday.com",
+    "site_code": "USAT",
+    "twitter": "usatoday",
+    "foo": "bar"
+  },
+  "kitsap-cold-cases": {
+    "slug": "cold-cases-unsolved-murders",
+    "spreadsheet_key": "1c38bd_Li2seWabUpgS5Xwuuv9frdwdsY74eHNReWFg8",
+    "domain": "kitsap.com",
+    "site_code": "PBKS"
+  },
+  "million-covid-deaths-america": {
+    "slug": "million-covid-deaths-america",
+    "spreadsheet_key": "1hjcMe_vkTTQJ1FqZ2qNIAwpBXz8GepysTQxMK1cHNGA",
+    "domain": "usatoday.com",
+    "site_code": "USAT",
+    "twitter": "usatoday"
+  },
+  "women-of-the-year-2022": {
+    "slug": "women-of-the-year-2022",
+    "spreadsheet_key": "1b3BHkJr9ts7i1g30syJcjS8aW-NqR0jT06ZZ8Ft3UaY",
+    "domain": "usatoday.com",
+    "site_code": "USAT",
+    "twitter": "usatoday"
+  },
+  "ohio-corruption": {
+    "slug": "ohio-corruption-project",
+    "spreadsheet_key": "1H8hulMEXzIU0n_mfKm4i0Hqc_5g9HZV10pb2SJazmZM",
+    "domain": "cincinnati.com",
+    "site_code": "PCIN",
+    "twitter": "enquirer",
+    "canonical_override": "https://www.cincinnati.com/storytelling/news/ohio-corruption-project/"
+  },
+  "delaware-most-influential-2022": {
+    "slug": "delaware-most-influential-2022",
+    "spreadsheet_key": "1XpGbklFm-luucmrBXLpMYhba-RdXlI41T0dBHlUqjfg",
+    "domain": "delawareonline.com",
+    "site_code": "PWIL",
+    "twitter": "delawareonline"
+  },
+  "jan-6-riots": {
+    "slug": "capitol-riot-mob-arrests",
+    "old_spreadsheet_key": "1EzupiAKYg2JUy1H9kIkAGeBfpZs0jzsBhbbAKGFvL44",
+    "spreadsheet_key": "1gERQhttdSpSTlvqDtpSkpQEzzWuO4XOqIX99smSLY40",
+    "domain": "usatoday.com",
+    "site_code": "USAT",
+    "twitter": "usatoday",
+    "canonical_override": "https://www.usatoday.com/storytelling/capitol-riot-mob-arrests/"
+  },
+  "blue-wall": {
+    "slug": "blue-wall-silence-police-whistleblower-misconduct-database",
+    "spreadsheet_key": "1V_vJdZkFthGG7-m76Oa_owcfRSMDBL3yG3-xVGiEb7s",
+    "domain": "usatoday.com",
+    "site_code": "USAT",
+    "twitter": "usatoday"
+  },
+  "carlsbad-40-under-40-2021": {
+    "slug": "carlsbad-40-under-40-2021-honors-community-leaders",
+    "spreadsheet_key": "1vJBuULZCY7xtaTkqPHE-rPMDTfmoDsrxkaGkKA6KPCQ",
+    "domain": "currentargus.com",
+    "site_code": "PNM5",
+    "twitter": "CCurrentArgus"
+  },
+  "day-of-covid": {
+    "slug": "day-of-covid-pandemic-stories",
+    "spreadsheet_key": "1XgbJP_kDayw9gObmMaBj74izYLFgzsqcOLYAYxuIWFw",
+    "domain": "tennessean.com",
+    "site_code": "PNAS"
+  },
+  "black-athletes-50-influencers": {
+    "slug": "black-history-month-50-most-influential-black-people-in-sports",
+    "spreadsheet_key": "1WkdzK6a9B4AM4A3QrKA-7geOkaoyT5tWHmQSgU24hGU",
+    "domain": "usatoday.com",
+    "site_code": "USAT"
+  },
+  "arizona-death-row": {
+    "slug": "arizona-death-row",
+    "site_code": "PPHX",
+    "spreadsheet_key": "1qkOCYENFZ-fz3Oj9-RETsiK1aN8K3y3rsV5EL4g7zU0",
+    "domain": "azcentral.com"
+  },
+  "az-governor-primary-2022": {
+    "slug": "arizona-governor-primary-election-2022-candidates-address-economy-education-water",
+    "site_code": "PPHX",
+    "spreadsheet_key": "1BRsSemzGUaXgXsFnZYgyX6T_JRYM8k8qtNQTrofl6Hk",
+    "domain": "azcentral.com"
+  },
+  "hagerstown-football": {
+    "slug": "the-best-washington-county-prep-football-players-21st-century",
+    "site_code": "NTHM",
+    "spreadsheet_key": "1lcthvg-dAAMXwxsSuhGTx5jA_cyO37NyfygnjuIpb74",
+    "domain": "heraldmailmedia.com"
+  },
+  "florida-election-endorsements-2022": {
+    "slug": "palm-beach-county-elections-endorsements-2022",
+    "site_code": "NPPP",
+    "spreadsheet_key": "1Ch2fmuCn-iOd4ZMFi884m0m23V1Ojqf1XMn1l4fXQvU",
+    "domain": "palmbeachpost.com",
+    "twitter": "pbpost"
+  },
+  "data-investigations": {
+    "slug": "your-life-in-data",
+    "site_code": "USAT",
+    "spreadsheet_key": "15uQiJYsBrHT5SH6SEB-YYI9wUBnTpl-0ir2eXzXhhEI",
+    "domain": "usatoday.com"
+  },
+  "desmoines-restaurants-2022": {
+    "slug": "best-restaurants-des-moines-iowa-top-places-to-eat-food",
+    "site_code": "PDEM",
+    "spreadsheet_key": "1Tsa5G8KIp8hsVBVnsIwZzP1-h0NSWujvH-hGt8Y3qcM",
+    "domain": "desmoinesregister.com"
+  },
+  "cast-of-characters-index": {
+    "slug": "cast-of-characters-index",
+    "site_code": "USAT",
+    "spreadsheet_key": "113MVUEgFYh89M1OIR5oWDs5eQ-tXRzr4sQp3iD8L5jc",
+    "domain": "usatoday.com"
+  },
+  "nfl-coaching-diversity-by-team-2022": {
+    "slug": "nfl-coaching-diversity-by-team-2022",
+    "site_code": "USAT",
+    "spreadsheet_key": "1N9lZmzXUjor_YRfPA4NuTmTYFGxVOMgBebWMArAYsOQ",
+    "domain": "usatoday.com",
+    "private": false,
+    "twitter": "usatoday"
+  },
+  "voting-rights-2022": {
+    "slug": "united-states-election-voting-rights-state-by-state",
+    "site_code": "USAT",
+    "spreadsheet_key": "1UDwxtYDIDBKHP6JcIINo5rPx7EJvnOekLOic-r1uk6U",
+    "domain": "usatoday.com",
+    "private": false,
+    "twitter": "usatoday"
+  },
+  "kentucky-bourbon-trail": {
+    "slug": "kentucky-bourbon-trail-guide",
+    "site_code": "PLOU",
+    "spreadsheet_key": "10nhCqJPRfSaIiLEBEtSYtU0vJAt1M1AKODvSWbQzyMY",
+    "domain": "courier-journal.com",
+    "private": false,
+    "twitter": "courierjournal"
+  },
+  "election-deniers-running-for-office-2022": {
+    "slug": "election-deniers-running-for-office-2022",
+    "site_code": "USAT",
+    "spreadsheet_key": "1ko4tD_iaEy1iAJvznzsh2QIQ-3N8rq35HrtICQiwc48",
+    "domain": "usatoday.com",
+    "private": false,
+    "twitter": "usatoday"
+  },
+  "world-cup-qatar-2022-men-roster": {
+    "slug": "world-cup-2022-mens-roster-usa-mexico-canada",
+    "site_code": "USAT",
+    "spreadsheet_key": "1Y2XT4X-R8ADR6ssBWqUZUa2Qr5y8217gArAQfHPY9eQ",
+    "domain": "usatoday.com",
+    "private": false,
+    "twitter": "usatoday"
+  },
+  "florida-general-election-endorsements-2022": {
+    "slug": "palm-beach-county-general-elections-endorsements-2022",
+    "site_code": "NPPP",
+    "spreadsheet_key": "1Ioape8uL3lkJCdZrnXp19wfpWZFMRILoySujjkybNeA",
+    "domain": "palmbeachpost.com",
+    "private": false,
+    "twitter": "pbpost"
+  },
+  "carlsbad-40-under-40-2022": {
+    "slug": "carlsbad-40-under-40-2022",
+    "site_code": "PNM5",
+    "spreadsheet_key": "1a8wUwG30q2CDsxKLWCHYhjk4GoW-1iUuVI4Vo_f06PA",
+    "domain": "currentargus.com",
+    "private": false,
+    "twitter": "CCurrentArgus"
+  },
+  "reviewed-subscriber-exclusive-guides": {
+    "slug": "reviewed-subscriber-exclusive-guides",
+    "site_code": "USAT",
+    "spreadsheet_key": "1rn0G4aN9IinYDNXyA4Xm1ozEb7t_pWyZ37ME1Eg3k_s",
+    "domain": "usatoday.com",
+    "private": false,
+    "twitter": "usatoday"
+  },
+  "test-development-project": {
+    "slug": "test-development-project",
+    "site_code": "USAT",
+    "spreadsheet_key": "1XMiCFDmkVJc0JrTFRU1hoU6wKgYZILItyW3ngkSr_no",
+    "domain": "usatoday.com",
+    "private": false,
+    "twitter": "usatoday"
+  },
+  "meet-your-elected-judges-of-jefferson-county-2022": {
+    "slug": "meet-your-elected-judges-of-jefferson-county-2022",
+    "site_code": "PLOU",
+    "spreadsheet_key": "1nsRlGCq_M-LA8R4j0ZnAcsTzaK-VsfoxHEUWrSzbs94",
+    "domain": "courier-journal.com",
+    "private": false,
+    "twitter": "courierjournal"
+  }
+}

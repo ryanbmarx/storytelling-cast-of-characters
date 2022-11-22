@@ -1,0 +1,619 @@
+{
+	"top": {
+		"headline_label_premium": "Subscriber exclusive",
+		"headline_label_preview": "A preview of a subscriber exclusive",
+		"label_sign_in_button": "Sign in",
+		"label_does_not_meet_requirements": "This is for subscribers only. Join now for great journalism like this.",
+		"label_sign_up_button": "Subscribe now",
+		"theme": "light",
+		"theme_color": "#009bff",
+		"background_color": "#ffffff",
+		"byline": "The Palm Beach Post Editorial Board",
+		"organization": "The Palm Beach Post",
+		"intro_image_position": "top",
+		"serif": false,
+		"ssts": "opinion/editorials",
+		"ad_topic": null,
+		"display_ads": false,
+		"top_ad": "default",
+		"brandlock": false,
+		"card_image_mask": true,
+		"cta_button_text": "More",
+		"cta_match_premium_state": false,
+		"title": "Florida Primary Election 2022: Endorsements from The Palm Beach Post Editorial Board",
+		"headline": "Florida Primary Endorsements from The Palm Beach Post Editorial Board",
+		"intro": "<p>The Palm Beach Post Editorial Board, which works separately from the newsroom, consists of Executive Editor Rick Christie, Editorial Page Editor Tony Doris and Editorial Writer Doug Lyons. Here are the candidates the board has endorsed for the Aug. 23 primary election.</p>",
+		"contributing": "<p>– Developed by the USA TODAY NETWORK Storytelling Studio</p>",
+		"intro_image_hide_caption": "no",
+		"intro_image_hide_credit": "no",
+		"published": 1661287103000,
+		"updated": 1661287103000,
+		"description": "Here are the candidates endorsed by The Palm Beach Post Editorial Board for the Aug. 23 primary election in Florida.",
+		"share_image": "10092898002",
+		"required_status": "subscriber",
+		"character_layout": "default",
+		"character_sort_by": "name",
+		"character_sort_direction": "ascending",
+		"image_ratio": "3_4",
+		"max_characters": 0,
+		"thumbnail_image_ratio": "4_3",
+		"theme_color_text": "#ffffff",
+		"related_links": [],
+		"cst": "opinion/editorials",
+		"searchable": [],
+		"hasImages": true,
+		"cast_project": "florida-election-endorsements-2022",
+		"site_code": "NPPP"
+	},
+	"categories": [
+		{
+			"id": "us-senate",
+			"name": "U.S. Senate",
+			"character_layout": "default"
+		},
+		{
+			"id": "us-house",
+			"name": "U.S. House",
+			"character_layout": "default"
+		},
+		{
+			"id": "florida-governor",
+			"name": "Florida Governor",
+			"character_layout": "default"
+		},
+		{
+			"id": "florida-house",
+			"name": "Florida House",
+			"character_layout": "default"
+		},
+		{
+			"id": "school-board",
+			"name": "School Board",
+			"character_layout": "default"
+		},
+		{
+			"id": "judge",
+			"name": "Judge",
+			"character_layout": "default"
+		},
+		{
+			"id": "county-commission",
+			"name": "County Commission",
+			"character_layout": "default"
+		},
+		{
+			"id": "port-palm-beach",
+			"name": "Port of Palm Beach",
+			"character_layout": "default"
+		}
+	],
+	"labels": {
+		"republican": {
+			"id": "republican",
+			"name": "Republican"
+		},
+		"democrat": {
+			"id": "democrat",
+			"name": "Democrat"
+		},
+		"incumbent": {
+			"id": "incumbent",
+			"name": "Incumbent"
+		}
+	},
+	"characters": [
+		{
+			"name": "Alcolya St. Juste",
+			"title": "Circuit Court Judge, Group 23",
+			"description": "<p>&quot;A bench that looks more like America is important. Voters have a rare opportunity for that by choosing St. Juste and knowing that in her they can expect a jurist of the highest quality.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/12/NPPP/981c3c60-e810-4dc3-8521-6f942209e326-St._Juste.jpg?crop=320,427,x128,y0",
+				"height": 427,
+				"width": 320,
+				"aspectRatio": 0.7494145199063232,
+				"alt": "Photo of Alcolya St. Juste"
+			},
+			"labels": [],
+			"category": "judge",
+			"id": "alcolya-st-juste",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/14/elections-palm-beach-post-endorses-juste-circuit-court-judge/10039383002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Charlie Crist",
+			"description": "<p>&quot;In this race, Crist hopes to regain his old job as Governor, building upon a well-established record as a moderate willing to cross party lines to get things done. He may be the &quot;old shoe&quot; of state politics but he brings a proven skill set to use the powers of state government to deal with Florida&#39;s challenges.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/01/NPPP/09d77ae5-eb9f-48ea-aa6c-17db941fee85-Charlie_Crist_115th_Congress_photo.jpg?crop=199,266,x0,y16",
+				"height": 266,
+				"width": 199,
+				"aspectRatio": 0.7481203007518797,
+				"alt": "Photo of Charlie Crist"
+			},
+			"labels": ["democrat"],
+			"category": "florida-governor",
+			"id": "charlie-crist",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/29/elections-2022-post-endorses-charlie-crist-as-democratic-nominee-governor/10163206002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Corey Smith",
+			"title": "District 7",
+			"description": "<p>&quot;In terms of knowledge of the Palm Beach County School District and the issues affecting schoolchildren, Corey Smith is the most qualified, experienced and committed candidate in the District 7 School Board race.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/18/NPPP/237d138e-fd41-4281-8d98-500c6ee6dafd-thumbnail_Corey_M._Smith.jpg?crop=639,852,x0,y53",
+				"height": 852,
+				"width": 639,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Corey Smith"
+			},
+			"labels": [],
+			"category": "school-board",
+			"id": "corey-smith",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-corey-smith-school-board-district-7/10085274002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Deandre Poole",
+			"title": "District 5",
+			"description": "<p>&quot;He&#39;s a thoughtful man who has held various positions of public responsibility and who holds the port&#39;s continued economic growth as his top priority for the commission seat.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/03/09/NPPP/a49f263b-9468-49e4-8e6c-aef8f72095bd-Deandre_Poole.jpg?crop=959,1279,x64,y0",
+				"height": 1279,
+				"width": 959,
+				"aspectRatio": 0.7498045347928068,
+				"alt": "Photo of Deandre Poole"
+			},
+			"labels": ["democrat"],
+			"category": "port-palm-beach",
+			"id": "deandre-poole",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-poole-port-commissioner-district-5/10146395002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Deb Adeimy",
+			"title": "District 22",
+			"description": "<p>&quot;The Palm Beach Post recommends Republican voters choose Deborah Adeimy, a solid Republican whose roots in the West Palm Beach community make her a good fit as a potential lawmaker.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/12/NPPP/9a6c27e1-1438-4b89-a493-74914b0495e2-Deb_Adeimy.png?crop=540,720,x384,y0",
+				"height": 720,
+				"width": 540,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Deb Adeimy"
+			},
+			"labels": ["republican"],
+			"category": "us-house",
+			"id": "deb-adeimy",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-deb-adeimy-gop-nominee-u-s-house-22/10029970002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Erica Whitfield",
+			"title": "District 4",
+			"description": "<p>&quot;Erica Whitfield has provided excellent service in the Palm Beach County School Board’s District 4 since being chosen by voters in 2014. She deserves reelection.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/21/NPPP/780ad55b-7f58-49d2-8569-3decd1fce863-Whitfield_Headshot.JPG?crop=4479,5972,x0,y0",
+				"height": 5972,
+				"width": 4479,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Erica Whitfield"
+			},
+			"labels": ["incumbent"],
+			"category": "school-board",
+			"id": "erica-whitfield",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/news/politics/elections/2022/07/26/elections-2022-post-endorses-eric-whitfield-school-board-district-4/10112118002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Jared Moskowitz",
+			"title": "District 23",
+			"description": "<p>&quot;Moskowitz should be an easy choice. He is familiar with the district, its residents and their needs.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/05/23/NPPP/ac24360d-1720-47a6-a3ad-0997a680cc87-Jared_Moskowitz.jpg?crop=960,1280,x160,y0",
+				"height": 1280,
+				"width": 960,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Jared Moskowitz"
+			},
+			"labels": ["democrat"],
+			"category": "us-house",
+			"id": "jared-moskowitz",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/08/02/elections-2022-post-endorses-democrat-moskowitz-congress-us-district-23/10090424002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Jim Pruden",
+			"title": "District 23",
+			"description": "<p>&quot;Pruden, an attorney living in Parkland, is the most experienced candidate and his views best reflect those of many conservatives living in the district.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/-mm-/9e5845be964aaaad7e06c4fc87aa2f538a9c091e/c=16-0-257-321/local/-/media/2020/08/03/PalmBeachPost/ghows_gallery_ei-LK-200728821-778e3bdd.jpg",
+				"height": 321,
+				"width": 241,
+				"aspectRatio": 0.7507788161993769,
+				"alt": "Photo of Jim Pruden"
+			},
+			"labels": ["republican"],
+			"category": "us-house",
+			"id": "jim-pruden",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-pruden-gop-primary-us-house-district-23/10107650002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Karen Brill",
+			"title": "District 3",
+			"description": "<p>&quot;Of the candidates in the Aug. 23 primary election, Brill is best equipped to meet the times on behalf of county students.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/24/NPPP/2d3d3d2c-881f-4df5-8048-789a7310e4d7-Karen_Brill_Headshot_1.jpg?crop=1344,1792,x1,y122",
+				"height": 1792,
+				"width": 1344,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Karen Brill"
+			},
+			"labels": ["incumbent"],
+			"category": "school-board",
+			"id": "karen-brill",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/18/palm-beach-post-endorses-karen-brill-erica-whitfield-school-board/10060474002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Kelly Skidmore",
+			"title": "District 92",
+			"description": "<p>&quot;Her knowledge of the job and district, coupled with her experience in Tallahassee, makes her the better pick for the Aug. 23 election.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/-mm-/229943b4d32148396e173e241ad82bdbd3f811ac/c=172-0-1042-1160/local/-/media/2020/08/19/PalmBeachPost/ghows-LK-200819166-637b6405.jpg",
+				"height": 1160,
+				"width": 870,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Kelly Skidmore"
+			},
+			"labels": ["democrat"],
+			"category": "florida-house",
+			"id": "kelly-skidmore",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-skidmore-florida-house-92-primary/10040424002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Marcia Andrews",
+			"title": "District 6",
+			"description": "<p>&quot;During her 45-year career in public education, Marcia Andrews has been there and done that for students more than any other candidate running in the Aug. 23 nonpartisan election for the Palm Beach County School District.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/23/NPPP/cd9c0c39-a488-4d37-b2d7-d634a8db355f-Marcia_Andrews.JPG?crop=384,512,x51,y0",
+				"height": 512,
+				"width": 384,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Marcia Andrews"
+			},
+			"labels": ["incumbent"],
+			"category": "school-board",
+			"id": "marcia-andrews",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/26/elections-2022-post-endorses-marcia-andrews-school-district-6/10086624002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Matt Willhite",
+			"title": "District 6",
+			"description": "<p>&quot;Matt Willhite has the firmest, most detailed grasp of these issues and wins our endorsement.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/20/NPPP/f85ce0a0-d439-4a25-9c7b-3dd51669ca5f-Matt_Willhite_Head_shot_1.jpg?crop=1800,2400,x1080,y0",
+				"height": 2400,
+				"width": 1800,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Matt Willhite"
+			},
+			"labels": ["democrat"],
+			"category": "county-commission",
+			"id": "matt-willhite",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-willhite-district-6-county-commissioner/10108625002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Paul Damico",
+			"title": "County Judge, Group 9",
+			"description": "<p>&quot;What is certain is Damico’s demonstrated excellence. Voters should return this fine jurist to the bench.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/05/20/NPPP/48cdbaad-2e9a-4dcb-bd28-32bf21b37760-20190220_BRB_Crash_05.JPG?crop=1245,1660,x240,y0",
+				"height": 1660,
+				"width": 1245,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Paul Damico"
+			},
+			"labels": ["incumbent"],
+			"category": "judge",
+			"id": "paul-damico",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/20/endorsement-incumbent-paul-damico-has-earned-new-term-county-judge/10038560002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Sheila Cherfilus-McCormick",
+			"title": "District 20",
+			"description": "<p>&quot;In her few months in office, she&#39;s shown an ability to represent the district as a backbench newbie, primarily by addressing district needs through constituent service. She is proving to be a quick study who warrants a full term in Congress.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/01/NPPP/5aa7ce4f-eee8-4620-815c-4596c7983471-Sheila_Cherfilus-McCormick_Dist._20.jpeg?crop=199,265,x0,y16",
+				"height": 265,
+				"width": 199,
+				"aspectRatio": 0.7509433962264151,
+				"alt": "Photo of Sheila Cherfilus-McCormick"
+			},
+			"labels": ["democrat", "incumbent"],
+			"category": "us-house",
+			"id": "sheila-cherfilus-mccormick",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/27/elections-2022-post-endorses-cherfilus-mccormick-us-house-20-primary/10144155002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Tom Valeo",
+			"title": "District 93",
+			"description": "<p>&quot;The Palm Beach Post recommends voters choose Tom Valeo, who is making his first race for elective office but is no stranger to the district, its issues or its local Democratic politics.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/18/NPPP/dc1bff6e-5134-48bc-b690-6f3741bdedc7-Tom_Valeo.JPG?crop=3000,4000,x2400,y0",
+				"height": 4000,
+				"width": 3000,
+				"aspectRatio": 0.75,
+				"alt": "Photo of Tom Valeo"
+			},
+			"labels": ["democrat"],
+			"category": "florida-house",
+			"id": "tom-valeo",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/22/tom-valeo-choice-florida-house-district-democratic-primary-race/10048206002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"name": "Val Demings",
+			"description": "<p>&quot;She is by far the best-prepared Democratic candidate, with the clear momentum to take on the two-term incumbent, Republican Marco Rubio.&quot;</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/01/NPPP/78c4b2c4-df78-4381-a523-1d8e367888b8-Val_Demings_Dist_10.jpg?crop=199,265,x0,y16",
+				"height": 265,
+				"width": 199,
+				"aspectRatio": 0.7509433962264151,
+				"alt": "Photo of Val Demings"
+			},
+			"labels": ["democrat"],
+			"category": "us-senate",
+			"id": "val-demings",
+			"links": [
+				{
+					"link": "https://www.palmbeachpost.com/story/opinion/2022/07/29/elections-2022-post-endorses-demings-senate-primary-over-rubio/10167972002/",
+					"text": "Read more."
+				}
+			]
+		},
+		{
+			"labels": []
+		},
+		{
+			"labels": [],
+			"id": "undefined-1"
+		},
+		{
+			"labels": [],
+			"id": "undefined-2"
+		},
+		{
+			"labels": [],
+			"id": "undefined-3"
+		},
+		{
+			"labels": [],
+			"id": "undefined-4"
+		},
+		{
+			"labels": [],
+			"id": "undefined-5"
+		},
+		{
+			"labels": [],
+			"id": "undefined-6"
+		},
+		{
+			"labels": [],
+			"id": "undefined-7"
+		},
+		{
+			"labels": [],
+			"id": "undefined-8"
+		},
+		{
+			"labels": [],
+			"id": "undefined-9"
+		},
+		{
+			"labels": [],
+			"id": "undefined-10"
+		},
+		{
+			"labels": [],
+			"id": "undefined-11"
+		},
+		{
+			"labels": [],
+			"id": "undefined-12"
+		},
+		{
+			"labels": [],
+			"id": "undefined-13"
+		},
+		{
+			"labels": [],
+			"id": "undefined-14"
+		},
+		{
+			"labels": [],
+			"id": "undefined-15"
+		},
+		{
+			"labels": [],
+			"id": "undefined-16"
+		},
+		{
+			"labels": [],
+			"id": "undefined-17"
+		},
+		{
+			"labels": [],
+			"id": "undefined-18"
+		},
+		{
+			"labels": [],
+			"id": "undefined-19"
+		},
+		{
+			"labels": [],
+			"id": "undefined-20"
+		},
+		{
+			"labels": [],
+			"id": "undefined-21"
+		},
+		{
+			"labels": [],
+			"id": "undefined-22"
+		},
+		{
+			"labels": [],
+			"id": "undefined-23"
+		},
+		{
+			"labels": [],
+			"id": "undefined-24"
+		},
+		{
+			"labels": [],
+			"id": "undefined-25"
+		},
+		{
+			"labels": [],
+			"id": "undefined-26"
+		},
+		{
+			"labels": [],
+			"id": "undefined-27"
+		},
+		{
+			"labels": [],
+			"id": "undefined-28"
+		},
+		{
+			"labels": [],
+			"id": "undefined-29"
+		},
+		{
+			"labels": [],
+			"id": "undefined-30"
+		},
+		{
+			"labels": [],
+			"id": "undefined-31"
+		},
+		{
+			"labels": [],
+			"id": "undefined-32"
+		},
+		{
+			"labels": [],
+			"id": "undefined-33"
+		},
+		{
+			"labels": [],
+			"id": "undefined-34"
+		},
+		{
+			"labels": [],
+			"id": "undefined-35"
+		},
+		{
+			"labels": [],
+			"id": "undefined-36"
+		},
+		{
+			"labels": [],
+			"id": "undefined-37"
+		},
+		{
+			"labels": [],
+			"id": "undefined-38"
+		},
+		{
+			"labels": [],
+			"id": "undefined-39"
+		},
+		{
+			"labels": [],
+			"id": "undefined-40"
+		},
+		{
+			"labels": [],
+			"id": "undefined-41"
+		},
+		{
+			"labels": [],
+			"id": "undefined-42"
+		},
+		{
+			"labels": [],
+			"id": "undefined-43"
+		},
+		{
+			"labels": [],
+			"id": "undefined-44"
+		}
+	]
+}

@@ -1,0 +1,115 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"title": "Cast of Characters input",
+	"description": "This schema covers all the data we want from a spreadsheet, processed to include assets. It's enough to generate a well-formed page.",
+	"type": "object",
+	"properties": {
+		"top": {
+			"type": "object",
+			"properties": {
+				"ssts": {
+					"type": "string",
+					"description": "A slash-separated list of section/subsection/topic/subtopic",
+					"default": "news",
+					"pattern": ""
+				},
+				"cst": {
+					"type": "string",
+					"description": "A slash-separated list of section/subsection/topic. Will default to ssts value"
+				},
+				"description": {
+					"type": "string",
+					"description": "The SEO friendly meta description, suitable for social networks and search results."
+				},
+				"share_image": {
+					"type": "string",
+					"description": "The absolute URL of an image to be used on social networks and search results.",
+					"pattern": "^https://"
+				},
+				"published": {
+					"type": "integer",
+					"description": "The machine-readable time, in milliseconds since the ECMAScript epoch, for the datetime the content was initially made public."
+				},
+				"updated": {
+					"type": "integer",
+					"description": "The machine-readable time, in milliseconds since the ECMAScript epoch, for the datetime of the most recent update."
+				},
+				"title": {
+					"type": "string",
+					"description": "The SEO friendly value for the <title> tag"
+				},
+				"headline": {
+					"type": "string",
+					"description": "The value of the page's <h1>. Is very important for SEO, too, but can be optimized for human brains instead of robots.",
+					"default": "Value of top.title"
+				},
+				"byline": { "type": "string", "description": "" },
+				"organization": { "type": "string", "description": "" },
+				"intro": { "type": "string", "description": "" },
+				"contributing": { "type": "string", "description": "" },
+				"related_links": {
+					"type": "array",
+					"description": "A series of links to related content that appears in the bottom of the <header>",
+					"items": { "type": "object" }
+				}
+			}
+		},
+		"labels": { "type": "object" },
+		"categories": { "type": "array" },
+		"columns": { "type": "array" }
+	},
+	"items": {
+		"description": "Individual objects suitable for an H2NOW meter",
+		"type": "object",
+		"properties": {
+			"id": {
+				"type": "string",
+				"description": "A short, slugified version of the branch name. Must be lower-case and use only alphanumeric characters, hyphens and underscores. This becomes the root div `id` property. Expected values: `north`, `main` or `south`",
+				"pattern": "[a-zA-Z0-9_\\-]+$"
+			},
+			"header": {
+				"type": "string",
+				"description": "The name of the branch/river segment formatted for humans to read"
+			},
+			"description": {
+				"type": "string",
+				"description": "A helpful description of the river segment's location"
+			},
+			"status": {
+				"type": "string",
+				"description": "The current caution status (or related state, such as \"delayed\"). It is displayed above the timestamp. This is the most important piece of information in the whole set. This should be supplied in lower case and whatever its value will be displayed in the status position. Exact values of `high caution`, `low caution`, `good` will trigger display changes. Other anticipated values are `data delayed`, `system offline` or `hibernating`"
+			},
+			"timestamp": {
+				"type": "string",
+				"description": "This is another free text string, displayed in a pill shape below the status and status indicator. Most of the time, it will be a human-readable date (Central time) to communicate how current the date is. Date formatting should be done server side. Whatever is provided will be rendered as is, in the event that more messaging is needed."
+			},
+			"alert": {
+				"type": "string",
+				"description": "In the case of a CSO event, or other such critical information, this text is rendered as delivered in a pill shape with a red background."
+			},
+			"table": {
+				"type": "array",
+				"description": "This array carries the data for the data table at the bottom of each meter.",
+				"items": {
+					"type": "object",
+					"description": "The data for a single row in the statistics table.",
+					"properties": {
+						"label": {
+							"description": "The name of the stat, with any needed units identified",
+							"type": "string"
+						},
+						"latest": {
+							"description": "The most recent value for that statistic. In the event it is unavailable, a string could be provided (e.g. 'n/a').",
+							"type": ["string", "number"]
+						},
+						"aggregate": {
+							"description": "The 30-day average for that statistic. In the event it is unavailable, a string could be provided (e.g. 'n/a').",
+							"type": ["string", "number"]
+						}
+					}
+				}
+			}
+		},
+		"required": ["id", "header", "description", "status", "timestamp"]
+	}
+}

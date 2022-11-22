@@ -1,0 +1,1022 @@
+{
+	"top": {
+		"headline_label_premium": "Subscriber exclusive",
+		"headline_label_preview": "A preview of a subscriber exclusive",
+		"label_sign_in_button": "Sign in",
+		"label_does_not_meet_requirements": "This is for subscribers only. Join now for great journalism like this.",
+		"label_sign_up_button": "Subscribe now",
+		"theme": "light",
+		"theme_color": "#009bff",
+		"background_color": "#ffffff",
+		"byline": "Daniel Kauffman",
+		"organization": "The Herald-Mail",
+		"intro_image_position": "top",
+		"serif": false,
+		"ssts": "sports/high-school",
+		"ad_topic": null,
+		"display_ads": true,
+		"top_ad": "default",
+		"brandlock": false,
+		"card_image_mask": true,
+		"cta_button_text": "Click here",
+		"cta_match_premium_state": false,
+		"title": "Who are the best Washington County prep football players this century?",
+		"intro": "<p>With the 2022 high school football season quickly approaching, it's a great time to remember some of Washington County's best players — 53 of them, to be exact, matching the size of an NFL active roster — over the last 21 years.</p><p>Why only the 21st century, you may ask? There's no question that many of the stars of the 20th century would make an all-time 53-man county roster. For example, Joey Himes, who graduated from Boonsboro in 1971, remains arguably the best wide receiver in county history, and still holds the county career records for catches (148) and receiving touchdowns (42) — he's second in career receiving yards (2,503), trailing the leader by a measly three yards.</p><p>However, I was unable to find reliable statistics for many of the top players from before the turn of the century. I know Phil Petry, a 1963 South Hagerstown graduate, earned All-American honors (according to his county hall of fame bio) while quarterbacking the Rebels to an undefeated season (9-0) in 1962. My guess is he's one of the three best prep QBs in county history. But I don't feel comfortable making those decisions without more complete statistical evidence, for Petry and several others.</p><p>This list of the top county players of this century would not have been possible to create without a pair of websites — the <a href=\"https://s3.amazonaws.com/my.llfiles.com/00300763/Wash-Co-FB-Record-Book-2020-edition1.pdf\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"cast-inline-link\">Washington County Football Record Book</a>, compiled by North Hagerstown assistant Dave Foltz, and the <a href=\"https://www.leaguelineup.com/welcome.asp?url=washcofootball\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"cast-inline-link\">Washington County Football League Lineup</a> site.</p><p>In addition, <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSenTRaOxPCG05MsZRkJXampDcHLJ8Zo5dnlsVvgUPD0MmeZOw/viewform\" rel=\"noopener noreferrer\" target=\"_blank\" class=\"cast-inline-link\">we are conducting a vote to determine the starting offense and defense</a>. Voting will run through Aug. 27, with the results released on Aug. 30. </p><p>Subscribers can enjoy full access to photographs and bios of all 53 members of my All-Washington County Football 21st Century Team (plus those players who also were considered). Subscribe or log in to see my selections below, and then have your say in our poll.</p>",
+		"contributing": "<p>– Developed by the USA TODAY NETWORK Storytelling Studio</p>",
+		"intro_image_hide_caption": "no",
+		"intro_image_hide_credit": "no",
+		"published": 1660622400000,
+		"updated": 1661298387000,
+		"description": "Herald-Mail sports writer Daniel Kauffman makes his selections for an All-Washington County 21st Century Football team.",
+		"share_image": "115811020",
+		"url_slug": "the-best-washington-county-prep-football-players-21st-century",
+		"required_status": "subscriber",
+		"max_characters": 0,
+		"character_layout": "default",
+		"character_sort_by": "name",
+		"character_sort_direction": "ascending",
+		"image_ratio": "4_3",
+		"cta_headline": "Vote on the best players of the 21st Century",
+		"cta_link": "https://docs.google.com/forms/d/e/1FAIpQLSenTRaOxPCG05MsZRkJXampDcHLJ8Zo5dnlsVvgUPD0MmeZOw/viewform",
+		"cta_helper_text": "Follow this to our online ballot ",
+		"thumbnail_image_ratio": "4_3",
+		"theme_color_text": "#ffffff",
+		"related_links": [],
+		"cst": "sports/high-school",
+		"searchable": [],
+		"hasImages": true,
+		"cast_project": "hagerstown-football",
+		"site_code": "NTHM"
+	},
+	"categories": [
+		{
+			"id": "quarterbacks",
+			"name": "Quarterbacks",
+			"character_layout": "default"
+		},
+		{
+			"id": "running-backs",
+			"name": "Running backs",
+			"character_layout": "default"
+		},
+		{
+			"id": "wide-receivers",
+			"name": "Wide receivers",
+			"character_layout": "default"
+		},
+		{
+			"id": "tight-ends",
+			"name": "Tight ends",
+			"character_layout": "default"
+		},
+		{
+			"id": "offensive-lineman",
+			"name": "Offensive linemen",
+			"character_layout": "default"
+		},
+		{
+			"id": "defensive-lineman",
+			"name": "Defensive linemen",
+			"character_layout": "default"
+		},
+		{
+			"id": "linebackers",
+			"name": "Linebackers",
+			"character_layout": "default"
+		},
+		{
+			"id": "defensive-backs",
+			"name": "Defensive backs",
+			"character_layout": "default"
+		},
+		{
+			"id": "utility-athlete",
+			"name": "Utility/Athletes",
+			"character_layout": "default"
+		},
+		{
+			"id": "kicker",
+			"name": "Kicker",
+			"character_layout": "default"
+		},
+		{
+			"id": "punter",
+			"name": "Punter",
+			"character_layout": "default"
+		}
+	],
+	"labels": {},
+	"characters": [
+		{
+			"name": "Adam Mellott",
+			"category": "quarterbacks",
+			"description": "<p>Mellott is the only quarterback of a county public-school team to pass for 2,000 yards in a season, finishing with 2,007 yards and 18 TDs as a senior in 2011 while completing 62.3% of his throws. He also led the county in passing yards (1,584) as a junior, and he ranks third this century with his 3,591 career passing yards.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/170874df613f92b2c943fe3d95699ac1.jpg?crop=1443,1082,x390,y0",
+				"height": 1082,
+				"width": 1443,
+				"aspectRatio": 1.3336414048059149,
+				"alt": "Photo of Adam Mellott"
+			},
+			"title": "Clear Spring, 2012",
+			"id": "adam-mellott",
+			"labels": []
+		},
+		{
+			"name": "Alex Akers",
+			"category": "linebackers",
+			"description": "<p>A two-time all-area first-team honoree, Akers led the county with 151 tackles as a junior in 2007 (the third-most in a single season in county history), then earned defensive player of the year honors as a senior, totaling 120 tackles, 23 tackles for losses and four sacks.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/4344506c-5092-49f7-be7f-1079317f18fe-Alex_Akers.JPG?crop=599,449,x1,y223",
+				"height": 449,
+				"width": 599,
+				"aspectRatio": 1.334075723830735,
+				"alt": "Photo of Alex Akers"
+			},
+			"title": "Smithsburg, 2009",
+			"id": "alex-akers",
+			"labels": []
+		},
+		{
+			"name": "Alex Fridley",
+			"category": "defensive-lineman",
+			"description": "<p>Fridley wreaked havoc in opposing backfields for three seasons while earning a pair of all-county first-team honors. He had 56 tackles (21 for losses) as a sophomore, 70 tackles (26 for losses) as a junior and 75 tackles (22 for losses) as a senior, with his 69 tackles for losses over those three years leading all linemen this century. He also had 10.5 sacks over his final two years.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/27/NTHM/586d7d5e-0653-4a7d-912f-bf0f9c47ec5b-Alex_Fridley.jpg?crop=2006,1505,x0,y0",
+				"height": 1505,
+				"width": 2006,
+				"aspectRatio": 1.332890365448505,
+				"alt": "Photo of Alex Fridley"
+			},
+			"title": "Williamsport, 2012",
+			"id": "alex-fridley",
+			"labels": []
+		},
+		{
+			"name": "Alex Wetzel",
+			"category": "tight-ends",
+			"description": "<p>In addition to his 20 receptions for 341 yards and seven touchdowns as a senior, when he was the offensive player of the year, he was a focal point in the blocking scheme that unleashed the Warriors&#39; prolific rushing game.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/acdc21da9681dba477d0fd0a38daaccd.jpg?crop=1800,1350,x138,y0",
+				"height": 1350,
+				"width": 1800,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Alex Wetzel"
+			},
+			"title": "Boonsboro, 2016",
+			"id": "alex-wetzel",
+			"labels": []
+		},
+		{
+			"name": "Ali Robinson",
+			"category": "tight-ends",
+			"description": "<p>Robinson had the second-best receiving season by a tight end this century, making 18 grabs for 340 yards and six TDs as a senior, to complement his blocking ability.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/bb7f7feed8fb7095c907d75b4ad9acce.jpg?crop=964,723,x43,y0",
+				"height": 723,
+				"width": 964,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Ali Robinson"
+			},
+			"title": "Smithsburg, 2015",
+			"id": "ali-robinson",
+			"labels": []
+		},
+		{
+			"name": "Anthony Winter",
+			"category": "utility-athlete",
+			"description": "<p>Winter is the only player in county history to finish his career with more than 3,000 yards rushing (3,030, No. 10 all-time) and more than 1,000 yards receiving (1,202, seventh all-time). As a sophomore receiver in 2008, he made 35 catches for 834 yards and 10 TDs. Moving to the backfield for his final two seasons, he rushed for 1,226 yards and 12 scores as a junior, then produced 1,702 yards and 16 TDs on the ground as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/10/23/NTHM/59369809-29e6-4885-b8eb-115b6d6e4337-Winter_football.jpg?crop=1703,1278,x198,y0",
+				"height": 1278,
+				"width": 1703,
+				"aspectRatio": 1.3325508607198748,
+				"alt": "Photo of Anthony Winter"
+			},
+			"title": "North Hagerstown, 2011",
+			"id": "anthony-winter",
+			"labels": []
+		},
+		{
+			"name": "Brady Neff",
+			"category": "wide-receivers",
+			"description": "<p>He finished his Wildcats career with 99 receptions and 1,434 receiving yards, both ranking second to Metchie this century. His 49 catches in 2021 are tied for the second-best total this century, and his 16 receiving TDs are tied for fourth this century. He also threw for 635 yards and five TDs as an emergency quarterback at the end of his senior year.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/68b048a12a7be2b5603afe78385055f3.jpg?crop=1611,1208,x296,y0",
+				"height": 1208,
+				"width": 1611,
+				"aspectRatio": 1.3336092715231789,
+				"alt": "Photo of Brady Neff"
+			},
+			"title": "Williamsport, 2022",
+			"id": "brady-neff",
+			"labels": []
+		},
+		{
+			"name": "Brandon Fink",
+			"category": "kicker",
+			"description": "<p>Fink is the county&#39;s all-time leader in kicking points (133) and field goals (18). He set a county single-season record with seven field goals for Smithsburg as a sophomore in 2017, then matched it for Boonsboro in 2019.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/94c963ef-1dc6-4672-b31d-4cfaa24a880c-Brandon_Fink.jpg?crop=712,534,x1,y168",
+				"height": 534,
+				"width": 712,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Brandon Fink"
+			},
+			"title": "Smithsburg/Boonsboro, 2020",
+			"id": "brandon-fink",
+			"labels": []
+		},
+		{
+			"name": "Brandon Oyster",
+			"category": "linebackers",
+			"description": "<p>The county&#39;s all-time leading tackler, he made 403 stops during his Wildcats career. As a junior in 2018, he had 149 tackles, the fourth-most in a season all-time. As a senior, he had 103 tackles, three sacks, five forced fumbles and a pair of fumble recoveries.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/06/01/Hagerstown/e12fe073ef13149dc5ce15b42116b0b4.jpg?crop=646,485,x0,y160",
+				"height": 485,
+				"width": 646,
+				"aspectRatio": 1.3319587628865979,
+				"alt": "Photo of Brandon Oyster"
+			},
+			"title": "Williamsport, 2020",
+			"id": "brandon-oyster",
+			"labels": []
+		},
+		{
+			"name": "Chase Osinga",
+			"category": "wide-receivers",
+			"description": "<p>As a senior in 2018, Osinga led the county in receptions (35), receiving yards (683) and receiving TDs (10). In 2017, he made 22 catches for 435 yards and a county-leading 12 touchdowns, tying for the second-best total this century. His 25 career receiving TDs rank second this century.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/3e06e59b2630c579182fd1df3eaa5685.jpg?crop=1227,920,x0,y47",
+				"height": 920,
+				"width": 1227,
+				"aspectRatio": 1.333695652173913,
+				"alt": "Photo of Chase Osinga"
+			},
+			"title": "Saint James, 2019",
+			"id": "chase-osinga",
+			"labels": []
+		},
+		{
+			"name": "Colby Martin",
+			"category": "offensive-lineman",
+			"description": "<p>Martin made the all-area first team in 2008 as the Warriors averaged 37.4 points per game in the regular season.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/2a21fa0d-e2eb-4b87-8924-c84e557cc1ba-Colby_Martin.jpg?crop=499,374,x1,y178",
+				"height": 374,
+				"width": 499,
+				"aspectRatio": 1.3342245989304813,
+				"alt": "Photo of Colby Martin"
+			},
+			"title": "Boonsboro, 2009",
+			"id": "colby-martin",
+			"labels": []
+		},
+		{
+			"name": "Cole Huntzberry",
+			"category": "defensive-backs",
+			"description": "<p>A ball-hawking free safety, Huntzberry earned defensive player of the year and all-state small school first-team honors as a senior in 2015 by picking off 10 passes, tying for the top single-season total this century.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/06/04/Hagerstown/1a73606d3bab803eecd17f0f2558b5ac.jpg?crop=1045,784,x0,y532",
+				"height": 784,
+				"width": 1045,
+				"aspectRatio": 1.3329081632653061,
+				"alt": "Photo of Cole Huntzberry"
+			},
+			"title": "Smithsburg, 2016",
+			"id": "cole-huntzberry",
+			"labels": []
+		},
+		{
+			"name": "Cole Menas",
+			"category": "utility-athlete",
+			"description": "<p>As a junior receiver, Menas made 49 catches (tied for the second-most in a season this century) for 852 yards and 11 TDs. As a senior playing quarterback in place of the injured Grochot, Menas threw for 1,145 yards and a county-best 17 TDs while rushing for 904 yards and nine more scores.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/c0f4c8d5e45cbea5e6af7cf0963cd4d8.jpg?crop=1597,1198,x132,y0",
+				"height": 1198,
+				"width": 1597,
+				"aspectRatio": 1.3330550918196995,
+				"alt": "Photo of Cole Menas"
+			},
+			"title": "Saint James, 2017",
+			"id": "cole-menas",
+			"labels": []
+		},
+		{
+			"name": "Collin Schultz",
+			"category": "wide-receivers",
+			"description": "<p>His 12 TD receptions in 2013 are tied for the second-most in a season this century, and he finished that season with 40 catches for 745 yards. He cemented his spot on this roster with his defensive play that year, as he made 10 interceptions to tie for the top single-season total this century.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/08/31/Hagerstown/558bc35c39e0d47dc1e8edcac96a0a49.jpg?crop=1567,1175,x0,y0",
+				"height": 1175,
+				"width": 1567,
+				"aspectRatio": 1.3336170212765956,
+				"alt": "Photo of Collin Schultz"
+			},
+			"title": "Clear Spring, 2014",
+			"id": "collin-schultz",
+			"labels": []
+		},
+		{
+			"name": "DJ Miller",
+			"category": "linebackers",
+			"description": "<p>Miller led the county in tackles in both the COVID-shortened 2020 season and as a senior last year, making 126 stops. He was second in the county with 103 tackles as a sophomore.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/12/14/NTHM/57277dd6-e43f-486c-a8f1-2ce68c724f31-DJ_MIller_tackle_1.jpg?crop=908,681,x11,y0",
+				"height": 681,
+				"width": 908,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of DJ Miller"
+			},
+			"title": "Smithsburg, 2022",
+			"id": "dj-miller",
+			"labels": []
+		},
+		{
+			"name": "Dan Rishell",
+			"category": "defensive-lineman",
+			"description": "<p>As a senior in 2007, Rishell set the county&#39;s single-season sacks record with 17. He finished the year with 74 tackles, including 25 for losses.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/54af49e7-11e1-41b6-b9e8-a36855514655-Dan_Rishell.jpeg?crop=232,174,x1,y40",
+				"height": 174,
+				"width": 232,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Dan Rishell"
+			},
+			"title": "Smithsburg, 2008",
+			"id": "dan-rishell",
+			"labels": []
+		},
+		{
+			"name": "Dink Snowden",
+			"category": "punter",
+			"description": "<p>His 42.1-yard punting average in 2005 is the county record.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/5c5c8c40-48ff-481b-9c12-9d2a0d9bf14c-Dink_Snowden.png?crop=499,374,x0,y0",
+				"height": 374,
+				"width": 499,
+				"aspectRatio": 1.3342245989304813,
+				"alt": "Photo of Dink Snowden"
+			},
+			"title": "North Hagerstown, 2006",
+			"id": "dink-snowden",
+			"labels": []
+		},
+		{
+			"name": "Dustin Sier",
+			"category": "running-backs",
+			"description": "<p>Sier ranks third in career rushing yards (3,609) this century, including 1,646 yards as a junior in 2001. He also rushed for 1,079 yards as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of Dustin Sier"
+			},
+			"title": "Smithsburg, 2003",
+			"id": "dustin-sier",
+			"labels": []
+		},
+		{
+			"name": "Dylan Dopson",
+			"category": "offensive-lineman",
+			"description": "<p>A two-time all-county first-team honoree, the Hubs averaged 33.6 points per game in the 2011 regular season. Dopson also was a standout defensive lineman.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/7e14e7017cf03e191040366e97ec75df.jpg?crop=1300,975,x0,y84",
+				"height": 975,
+				"width": 1300,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Dylan Dopson"
+			},
+			"title": "North Hagerstown, 2012",
+			"id": "dylan-dopson",
+			"labels": []
+		},
+		{
+			"name": "Eli Souders",
+			"category": "defensive-backs",
+			"description": "<p>A two-time all-county first-teamer, he made 63 tackles as a junior in 2009, then had 56 tackles, seven interceptions and five more pass defenses as a senior. Also was a talented receiver.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/f4b26850-8f81-4cae-b95d-beeeca9c9276-Eli_Souders.jpg?crop=499,374,x1,y158",
+				"height": 374,
+				"width": 499,
+				"aspectRatio": 1.3342245989304813,
+				"alt": "Photo of Eli Souders"
+			},
+			"title": "Hancock, 2011",
+			"id": "eli-souders",
+			"labels": []
+		},
+		{
+			"name": "Ethan Holobinko",
+			"category": "running-backs",
+			"description": "<p>A steady ground threat for three straight seasons, Holobinko had 1,031 yards and 15 TDs as a sophomore in 2017, 888 yards and 14 TDs as a junior, and 1,180 yards and 20 TDs as a senior. His 49 career TDs rank second this century and third all-time.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/08/31/Hagerstown/bf64fb1e889d742d6a639a59cfd517bf.jpg?crop=1781,1336,x0,y0",
+				"height": 1336,
+				"width": 1781,
+				"aspectRatio": 1.3330838323353293,
+				"alt": "Photo of Ethan Holobinko"
+			},
+			"title": "Boonsboro, 2020",
+			"id": "ethan-holobinko",
+			"labels": []
+		},
+		{
+			"name": "Gabe Fridgen",
+			"category": "defensive-backs",
+			"description": "<p>Fridgen was all over the field as a senior in 2012, finishing with 109 tackles, six interceptions (returning two for touchdowns) and three forced fumbles.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/27/NTHM/7a277bae-2c8e-435b-bf44-a3329d6c0f6a-Gabe_Fridgen.jpg?crop=1566,1175,x1,y36",
+				"height": 1175,
+				"width": 1566,
+				"aspectRatio": 1.3327659574468085,
+				"alt": "Photo of Gabe Fridgen"
+			},
+			"title": "North Hagerstown, 2013",
+			"id": "gabe-fridgen",
+			"labels": []
+		},
+		{
+			"name": "Greg Pheabus",
+			"category": "linebackers",
+			"description": "<p>A two-time all-county first-teamer, Pheabus made 121 tackles, including 22 for losses, and had six sacks as a junior in 2008. He added 107 tackles as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/27/NTHM/19a3ccef-ff41-40bf-a92b-a3b751d27e25-Greg_Pheabus.jpg?crop=1566,1175,x1,y115",
+				"height": 1175,
+				"width": 1566,
+				"aspectRatio": 1.3327659574468085,
+				"alt": "Photo of Greg Pheabus"
+			},
+			"title": "North Hagerstown, 2010",
+			"id": "greg-pheabus",
+			"labels": []
+		},
+		{
+			"name": "Isaiah Keyes",
+			"category": "utility-athlete",
+			"description": "<p>Keyes rushed for 2,862 yards (No. 11 all-time), scored 44 touchdowns (tied for eighth all-time) and picked off 18 passes (a county career record) during his Hubs career. As a junior in 2012, he rushed for 1,117 yards and 17 TDs. As a senior, he rushed for 1,394 yards and 14 scores, caught 13 passes for 310 yards and four scores, was the first player this century to pick off 10 passes and set a state record by returning five of them for TDs. He also made 54 tackles.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/08/31/Hagerstown/5cc31e5652632e1d3f34817e65ef484e.jpg?crop=1567,1175,x0,y30",
+				"height": 1175,
+				"width": 1567,
+				"aspectRatio": 1.3336170212765956,
+				"alt": "Photo of Isaiah Keyes"
+			},
+			"title": "North Hagerstown, 2014",
+			"id": "isaiah-keyes",
+			"labels": []
+		},
+		{
+			"name": "Isiaha Smith",
+			"category": "running-backs",
+			"description": "<p>Smith holds county records for rushing yards in a season (2,918, in 2013) and a career (5,650), and for rushing touchdowns in a season (40, in 2013) and a career (79) — and no one is within shouting distance of any of those marks. He originally set county records with 2,004 yards rushing and 28 TDs in his junior season, before smashing them again. He also had 728 yards and 12 TDs rushing as a sophomore, and finished his career with 85 TDs.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/3e5b14cadc1776110f72ed48347bbbfe.jpg?crop=669,502,x29,y0",
+				"height": 502,
+				"width": 669,
+				"aspectRatio": 1.3326693227091633,
+				"alt": "Photo of Isiaha Smith"
+			},
+			"title": "South Hagerstown, 2012",
+			"id": "isiaha-smith",
+			"labels": []
+		},
+		{
+			"name": "J.R. Lowery",
+			"category": "defensive-lineman",
+			"description": "<p>With 321 tackles in his Warriors career, Lowery is tied for third on the county&#39;s all-time list and leads all linemen. He led the county in tackles (135) and tackles for losses (24) as a senior in 2011, and had 88 tackles as a sophomore and 74 more as a junior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/19b272b0-609f-4e00-884f-a19a9cd7e132-JR_Lowery.jpg?crop=749,562,x1,y190",
+				"height": 562,
+				"width": 749,
+				"aspectRatio": 1.3327402135231317,
+				"alt": "Photo of J.R. Lowery"
+			},
+			"title": "Boonsboro, 2012",
+			"id": "jr-lowery",
+			"labels": []
+		},
+		{
+			"name": "Jayswah Sanon",
+			"category": "running-backs",
+			"description": "<p>Sanon finished his Rebels career with 3,167 rushing yards, fourth-best this century, and led the county in rushing yards (1,491) and rushing TDs (22) as a senior in 2018.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/5182a8e206954503d95cee8a004e2695.jpg?crop=1296,972,x103,y0",
+				"height": 972,
+				"width": 1296,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Jayswah Sanon"
+			},
+			"title": "South Hagerstown, 2019",
+			"id": "jayswah-sanon",
+			"labels": []
+		},
+		{
+			"name": "Joe McCoy",
+			"category": "running-backs",
+			"description": "<p>McCoy ranks second in county history with 4,115 career rushing yards, and ranks fourth with 48 touchdowns. He surpassed 1,000 yards rushing three times, going for 1,314 yards and 17 TDs in 2014, 1,764 yards and 21 TDs (20 rushing) in 2015, and 1,037 yards and 10 TDs in 2016. His 2015 rushing total is the third-best single-season total this century.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/28/Hagerstown/e776af4f140feb0cb4934c6c1faf5483.jpg?crop=1520,1140,x47,y0",
+				"height": 1140,
+				"width": 1520,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Joe McCoy"
+			},
+			"title": "Clear Spring, 2017",
+			"id": "joe-mccoy",
+			"labels": []
+		},
+		{
+			"name": "Joey Fisher",
+			"category": "defensive-lineman",
+			"description": "<p>Fisher earned all-state small-school first-team honors as a senior in 2015 after a season in which he had 58 tackles (11 for losses) and 6.5 sacks.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/06/10/Hagerstown/242ed41a75876ea886f823da88de14c9.jpg?crop=1280,960,x0,y49",
+				"height": 960,
+				"width": 1280,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Joey Fisher"
+			},
+			"title": "Clear Spring, 2016",
+			"id": "joey-fisher",
+			"labels": []
+		},
+		{
+			"name": "John Kline",
+			"category": "defensive-lineman",
+			"description": "<p>Kline finished his Hubs career with 20.5 sacks, ranking third all-time. As a senior in 2003, he had 63 tackles, 13 sacks (leading the county) and five fumble recoveries.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/436e81c4-c70a-498d-9083-7ffcb304a18f-John_Kline.png?crop=352,264,x1,y8",
+				"height": 264,
+				"width": 352,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of John Kline"
+			},
+			"title": "North Hagerstown, 2004",
+			"id": "john-kline",
+			"labels": []
+		},
+		{
+			"name": "John Metchie",
+			"category": "wide-receivers",
+			"description": "<p>The county&#39;s all-time leader in career receiving yards (2,506), he leads all receivers this century in receptions (132), ranks second this century with 31 TD catches, and his 47 total touchdowns ranks fourth this century. His best season was as a sophomore, when he had 50 receptions (the best single-season total this century) for 944 yards (second this century) and 8 TDs, and also rushed for 706 yards and seven scores.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/5f9bfa1f29436442846f605ca20d52db.jpg?crop=1300,975,x0,y11",
+				"height": 975,
+				"width": 1300,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of John Metchie"
+			},
+			"title": "Saint James, 2018",
+			"id": "john-metchie",
+			"labels": []
+		},
+		{
+			"name": "Justin Jardeleza",
+			"category": "defensive-backs",
+			"description": "<p>A two-way threat for the Warriors (he also was a running back), he made four interceptions as a sophomore in 2009, and he returned three INTs for touchdowns as a senior in 2011.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/27/NTHM/1f5c48ce-c2dd-45ec-995b-a757b98fd31a-Justin_Jardeleza.jpg?crop=1846,1385,x254,y0",
+				"height": 1385,
+				"width": 1846,
+				"aspectRatio": 1.3328519855595669,
+				"alt": "Photo of Justin Jardeleza"
+			},
+			"title": "Boonsboro, 2012",
+			"id": "justin-jardeleza",
+			"labels": []
+		},
+		{
+			"name": "Lincoln Ikwubuo",
+			"category": "defensive-backs",
+			"description": "<p>A two-time all-county first-teamer, Ikwobuo earned defensive player of the year honors as a senior in 2016 with 95 tackles, five interceptions and a 70-yard fumble-recovery TD. He made 117 tackles as a junior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/08/31/Hagerstown/f56340df8ff37d7f5068e1e4f99b00ff.jpg?crop=1624,1218,x376,y0",
+				"height": 1218,
+				"width": 1624,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Lincoln Ikwubuo"
+			},
+			"title": "South Hagerstown, 2017",
+			"id": "lincoln-ikwubuo",
+			"labels": []
+		},
+		{
+			"name": "Matt Feiser",
+			"category": "linebackers",
+			"description": "<p>Feiser earned defensive player of the year honors as a senior in 2004, finishing with 175 tackles (second-most in a season all-time), including an astounding 55 tackles for losses (a single-season record) and 12.5 sacks. He also rushed for more than 1,000 yards.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of Matt Feiser"
+			},
+			"title": "Smithsburg, 2005",
+			"id": "matt-feiser",
+			"labels": []
+		},
+		{
+			"name": "Michael Kraeker",
+			"category": "defensive-lineman",
+			"description": "<p>The county&#39;s all-time leader in sacks with 25, Kraeker had 99 tackles, 15 sacks (second-best single-season total all-time) and five pass defenses as a senior in 2016. He tied for the county sacks lead with 10 as a junior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/cceb2940-45cc-4c55-81c4-a88f9cc58174-Michael_Kraeker.jpg?crop=992,744,x1,y54",
+				"height": 744,
+				"width": 992,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Michael Kraeker"
+			},
+			"title": "Saint James, 2017",
+			"id": "michael-kraeker",
+			"labels": []
+		},
+		{
+			"name": "Mitch Wolters",
+			"category": "offensive-lineman",
+			"description": "<p>Wolters was an all-area first-team honoree in 2004, when the Hubs averaged 42.1 points per game in the regular season, fourth-best all-time.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/2955ecfb-34d4-4e6b-beac-676075954110-Mitch_Wolters.png?crop=366,275,x1,y9",
+				"height": 275,
+				"width": 366,
+				"aspectRatio": 1.3309090909090908,
+				"alt": "Photo of Mitch Wolters"
+			},
+			"title": "North Hagerstown, 2005",
+			"id": "mitch-wolters",
+			"labels": []
+		},
+		{
+			"name": "Nick Kidwell",
+			"category": "offensive-lineman",
+			"description": "<p>A two-time all-county first-teamer, he shared offensive player of the year honors with linemate Ryan Nikirk as a senior. When they were juniors, the Warriors averaged 42.7 points per game in the 2016 regular season, third-best all-time.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/05/28/Hagerstown/83048aa5c9dbc4117c2e78ddf8005b86.jpg?crop=1033,775,x0,y311",
+				"height": 775,
+				"width": 1033,
+				"aspectRatio": 1.3329032258064517,
+				"alt": "Photo of Nick Kidwell"
+			},
+			"title": "Boonsboro, 2018",
+			"id": "nick-kidwell",
+			"labels": []
+		},
+		{
+			"name": "Phillip Butler",
+			"category": "running-backs",
+			"description": "<p>Butler&#39;s senior season was one to remember, as he led the county in rushing yards (1,743, the fourth-best single-season total this century) and rushing TDs (24) while finishing with 26 total scores.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/06/27/NTHM/8a20f387-ded8-4808-8292-07097c9903a9-Phillip_Butler.jpg?crop=1828,1371,x272,y0",
+				"height": 1371,
+				"width": 1828,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Phillip Butler"
+			},
+			"title": "North Hagerstown, 2012",
+			"id": "phillip-butler",
+			"labels": []
+		},
+		{
+			"name": "Quielan Gantt",
+			"category": "wide-receivers",
+			"description": "<p>He led the county in receiving yards and receiving TDs in both 2003 (385 yards, four scores) and 2004 (490 yards, 12 scores), tying for the second-most receiving TDs in a season this century as a senior. His 17 career receiving TDs rank third this century.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/45caa596-e048-4a05-9b7c-2e9fc0f7d6fe-Quielan_Gantt.jpg?crop=499,374,x0,y19",
+				"height": 374,
+				"width": 499,
+				"aspectRatio": 1.3342245989304813,
+				"alt": "Photo of Quielan Gantt"
+			},
+			"title": "North Hagerstown, 2005",
+			"id": "quielan-gantt",
+			"labels": []
+		},
+		{
+			"name": "Rob Purnell",
+			"category": "defensive-lineman",
+			"description": "<p>A two-time all-county first-team honoree, Purnell totaled 128 tackles, 26 tackles for losses and 16.5 sacks over those two seasons. Also had four pass defenses and blocked two field goals as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/06/09/Hagerstown/0356e118b40964deb06c2050644e8880.jpg?crop=883,662,x0,y179",
+				"height": 662,
+				"width": 883,
+				"aspectRatio": 1.3338368580060422,
+				"alt": "Photo of Rob Purnell"
+			},
+			"title": "Saint James, 2019",
+			"id": "rob-purnell",
+			"labels": []
+		},
+		{
+			"name": "Robbie Hogue",
+			"category": "linebackers",
+			"description": "<p>A two-time all-county first-team honoree, Hogue had 130 tackles, including 18 for losses, and 5.5 sacks as a senior. He had 86 tackles (8.5 for losses) as a junior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of Robbie Hogue"
+			},
+			"title": "Smithsburg, 2012",
+			"id": "robbie-hogue",
+			"labels": []
+		},
+		{
+			"name": "Ryan Delauter",
+			"category": "linebackers",
+			"description": "<p>Delauter was the defensive player of the year as a senior in 2010, finishing with 93 tackles, including 20.5 for losses, and 9.5 sacks. He had 55 tackles, seven for losses, as a junior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of Ryan Delauter"
+			},
+			"title": "Smithsburg, 2011",
+			"id": "ryan-delauter",
+			"labels": []
+		},
+		{
+			"name": "Ryan McLaughlin",
+			"category": "defensive-backs",
+			"description": "<p>A two-time all-county first-team honoree, McLaughlin had 75 tackles and two interceptions as a junior in 2016, then had 84 tackles, five fumble recoveries (returning two for scores) and three INTs as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/05/28/Hagerstown/a6270325bdfe3a9a594afe3f08600f2a.jpg?crop=1405,1054,x81,y0",
+				"height": 1054,
+				"width": 1405,
+				"aspectRatio": 1.3330170777988615,
+				"alt": "Photo of Ryan McLaughlin"
+			},
+			"title": "Williamsport, 2018",
+			"id": "ryan-mclaughlin",
+			"labels": []
+		},
+		{
+			"name": "Ryan Nikirk",
+			"category": "offensive-lineman",
+			"description": "<p>A two-time all-county first-teamer, he shared offensive player of the year honors with linemate Nick Kidwell as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/05/28/Hagerstown/19cea46d1cb147fec84e8f8b496a7a8d.jpg?crop=1033,775,x0,y358",
+				"height": 775,
+				"width": 1033,
+				"aspectRatio": 1.3329032258064517,
+				"alt": "Photo of Ryan Nikirk"
+			},
+			"title": "Boonsboro, 2018",
+			"id": "ryan-nikirk",
+			"labels": []
+		},
+		{
+			"name": "Saavon Brown",
+			"category": "utility-athlete",
+			"description": "<p>Over Brown&#39;s final two seasons, the Wildcats quarterback produced 4,745 yards of offense and 44 touchdowns. As a junior in 2013, he threw for 1,125 yards and eight TDs and rushed for 1,081 yards and eight more scores. As a senior, he rushed for 1,387 yards and 20 TDs, and passed for 1,172 yards and eight scores.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/28/Hagerstown/7722a3b36fbc2bb60a78298ef9e5bcd1.jpg?crop=1650,1238,x0,y18",
+				"height": 1238,
+				"width": 1650,
+				"aspectRatio": 1.332794830371567,
+				"alt": "Photo of Saavon Brown"
+			},
+			"title": "Williamsport, 2015",
+			"id": "saavon-brown",
+			"labels": []
+		},
+		{
+			"name": "Sinjin Shoop",
+			"category": "defensive-backs",
+			"description": "<p>A two-time all-county first-team selection, Shoop had 53 tackles and four interceptions as a junior in 2013, then had 82 tackles and four sacks as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/06/08/Hagerstown/1a6e56d72b06eafda99c27bb81261136.jpg?crop=500,375,x0,y175",
+				"height": 375,
+				"width": 500,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Sinjin Shoop"
+			},
+			"title": "Williamsport, 2015",
+			"id": "sinjin-shoop",
+			"labels": []
+		},
+		{
+			"name": "Steve Whitt",
+			"category": "offensive-lineman",
+			"description": "<p>Whitt made the all-area first team in 2007 as the Leopards averaged 31.7 points per game in the regular season.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/09a20c35-3e2f-4e14-b116-bde046bd6482-Steve_Whitt.JPG?crop=757,568,x0,y192",
+				"height": 568,
+				"width": 757,
+				"aspectRatio": 1.3327464788732395,
+				"alt": "Photo of Steve Whitt"
+			},
+			"title": "Smithsburg, 2008",
+			"id": "steve-whitt",
+			"labels": []
+		},
+		{
+			"name": "Steven Schwartz",
+			"category": "offensive-lineman",
+			"description": "<p>The only offensive lineman to be named to the all-county first team three times, his talent up front helped the Saints average 45.7 points per game in 2016, the highest county mark all-time.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/34e4a4c57c6eedf592f8f374c7d08c61.jpg?crop=1470,1103,x0,y149",
+				"height": 1103,
+				"width": 1470,
+				"aspectRatio": 1.3327289211242066,
+				"alt": "Photo of Steven Schwartz"
+			},
+			"title": "Saint James, 2019",
+			"id": "steven-schwartz",
+			"labels": []
+		},
+		{
+			"name": "TJ Peer",
+			"category": "quarterbacks",
+			"description": "<p>The dual threat led the Rebels to a 16-5 record over his junior and senior seasons, including a 10-1 record and a playoff berth as a junior in 2014. Over those two seasons, he passed for 1,951 yards and 24 TDs, and rushed for 1,107 yards and 22 more scores.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/08/31/Hagerstown/de5651089fafed9f1a53636ae3f238eb.jpg?crop=749,562,x51,y0",
+				"height": 562,
+				"width": 749,
+				"aspectRatio": 1.3327402135231317,
+				"alt": "Photo of TJ Peer"
+			},
+			"title": "South Hagerstown, 2016",
+			"id": "tj-peer",
+			"labels": []
+		},
+		{
+			"name": "Tayquon Johnson",
+			"category": "defensive-lineman",
+			"description": "<p>Johnson was the defensive player of the year as a junior in 2017, finishing with 87 tackles (including a county-high 16 for losses) and eight sacks. His 25 tackles for loss as a senior also led the county, and he added six sacks.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/08/31/Hagerstown/90fd4c1f0528a8ecb7c618e9587106d1.jpg?crop=672,504,x0,y0",
+				"height": 504,
+				"width": 672,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Tayquon Johnson"
+			},
+			"title": "Williamsport, 2019",
+			"id": "tayquon-johnson",
+			"labels": []
+		},
+		{
+			"name": "Tyler Grochot",
+			"category": "quarterbacks",
+			"description": "<p>The county record-holder in total passing yards (6,120) and passing touchdowns (83). Grochot set county single-season records with 2,418 passing yards and 28 passing TDs as a sophomore in 2015. He also led the county in passing yards and passing TDs in 2014 and 2017, throwing for 1,802 yards and 24 TDs as a freshman, and also tossing 24 TDs as a senior. His completion percentage was above 60% in all three of his full seasons.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/6c6df92ace1c38b36fd0374f13af5d41.jpg?crop=1613,1210,x0,y0",
+				"height": 1210,
+				"width": 1613,
+				"aspectRatio": 1.3330578512396694,
+				"alt": "Photo of Tyler Grochot"
+			},
+			"title": "Saint James, 2018",
+			"id": "tyler-grochot",
+			"labels": []
+		},
+		{
+			"name": "Zach Eppard",
+			"category": "offensive-lineman",
+			"description": "<p>A two-time all-county first-team honoree, the Hubs averaged 30.5 points per game in the 2010 regular season.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2022/07/06/NTHM/206a4456-1cce-4f12-8784-60eaf0e9f36e-Zach_Eppard_North.jpg?crop=1566,1175,x1,y41",
+				"height": 1175,
+				"width": 1566,
+				"aspectRatio": 1.3327659574468085,
+				"alt": "Photo of Zach Eppard"
+			},
+			"title": "North Hagerstown, 2011",
+			"id": "zach-eppard",
+			"labels": []
+		},
+		{
+			"name": "Zach Poffenberger",
+			"category": "defensive-backs",
+			"description": "<p>The two-time all-county first-teamer had 37 tackles and five interceptions as a junior in 2011, then had 30 tackles and six INTs as a senior. He also rushed for 538 yards and nine scores as a junior, and had 901 yards of offense and 12 TDs as a senior.</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/media/2021/04/30/Hagerstown/40a49cfdd69d11637dd9a980b094be93.jpg?crop=1300,975,x0,y43",
+				"height": 975,
+				"width": 1300,
+				"aspectRatio": 1.3333333333333333,
+				"alt": "Photo of Zach Poffenberger"
+			},
+			"title": "Boonsboro, 2013",
+			"id": "zach-poffenberger",
+			"labels": []
+		},
+		{
+			"category": "quarterbacks",
+			"description": "<p>Also considered: Timmy Townsend, South Hagerstown (2019); Jaynaz Melendez, North Hagerstown (2020); Jacob Dugas, Saint James (2020); Mike Russ, Saint James (2009); Logan Kelso, North Hagerstown (2007).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": []
+		},
+		{
+			"category": "running-backs",
+			"description": "<p>Also considered: Justin Thompson, Smithsburg (2006); Kavon Carter, Williamsport (2018); Mike Etzel, Clear Spring (2011); Jesse Wolford, Hancock (2015).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-1"
+		},
+		{
+			"category": "wide-receivers",
+			"description": "<p>Also considered: Donnie Lapole, Clear Spring (2006); Kevin Kocsis, Smithsburg (2008).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-2"
+		},
+		{
+			"category": "offensive-lineman",
+			"description": "<p>Also considered: Travis Kendle, Williamsport (2015); Duncan Burnett, South Hagerstown (2018).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-3"
+		},
+		{
+			"category": "defensive-lineman",
+			"description": "<p>Also considered: Sam Haines, Hancock (2016); Jonari Carroll, Williamsport (2018); Bryce Scott, Smithsburg (2016); Aaron Dopson, North Hagerstown (2015); Sabry Mkamba, South Hagerstown (2014).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-4"
+		},
+		{
+			"category": "linebackers",
+			"description": "<p>Also considered: Kyle Cunningham, Williamsport (2008); Jeff Rupp, South Hagerstown (2020); Sean Tolton, Saint James (2015); Sam Elwood, Clear Spring (2012); Neiko Akers, Smithsburg (2010).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-5"
+		},
+		{
+			"category": "defensive-backs",
+			"description": "<p>Also considered: Josh Conway, Smithsburg (2009); Malakai Pinckney, South Hagerstown (2020); Andre Myers, Saint James (2019); Keegan Bowles, Boonsboro (2017); CJ Davis, South Hagerstown (2012); David Miner, South Hagerstown (2004); Dulaney Williams, South Hagerstown (2010); Seth Poffenberger, Boonsboro (2009).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-6"
+		},
+		{
+			"category": "kicker",
+			"description": "<p>Also considered: Bobby Fink, Smithsburg (2017); Mark Grunberg, North Hagerstown (2014); Brent Toms, North Hagerstown (2005).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-7"
+		},
+		{
+			"category": "punter",
+			"description": "<p>Also considered: Eddie Slater, South Hagerstown (2014); J.T. Root, North Hagerstown (2012).</p>",
+			"image": {
+				"src": "https://www.gannett-cdn.com/presto/2021/08/04/NTHM/1c67eed2-1db3-42b9-9a50-89e8990edc69-Football.jpg?crop=433,325,x37,y0",
+				"height": 325,
+				"width": 433,
+				"aspectRatio": 1.3323076923076924,
+				"alt": "Photo of "
+			},
+			"labels": [],
+			"id": "undefined-8"
+		}
+	]
+}

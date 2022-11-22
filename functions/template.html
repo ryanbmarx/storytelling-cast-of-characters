@@ -1,0 +1,358 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+  <link rel="stylesheet"
+    href="https://cpt-static.gannettdigital.com/universal-web-client/master/latest/gallium/themes/universal-polyfill.css" />
+  <link rel="stylesheet" href="global.css" />
+  <link rel="stylesheet" href="bundle.css" />
+  %indepthcss%
+
+  <title>%title%</title>
+  <script async
+    src="https://cpt-static.gannettdigital.com/universal-web-client/master/latest/core/bundles/story.js"></script>
+  <style>
+    html body {
+      padding: 56px 0 0 0;
+      margin: 0 0 0 0;
+    }
+
+
+
+    #navWrapContainer p {
+      font: 12px/1em sans-serif;
+      margin: 0;
+
+    }
+
+    #navWrapContainer p.label {
+      margin-left: auto;
+    }
+
+    #fake-footer {
+      height: 210px;
+    }
+
+    #navWrapContainer,
+    #fake-footer {
+      box-sizing: border-box;
+      width: 100%;
+      background: #bbb;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #555;
+      font-size: 12px;
+      font-style: italic;
+      gap: 0.5rem;
+    }
+
+    #navWrapContainer {
+      height: 56px;
+      z-index: 100;
+      position: fixed;
+      top: 0;
+      left: 0;
+      z-index: 10000000000;
+
+      padding: 0 2rem
+    }
+
+    #gannettAtomsComponentBar {
+      font: 12px/1em sans-serif;
+      color: rgba(255, 255, 255, 0.5);
+      background: #222;
+      height: 40px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border-radius: 100vw;
+      width: 90vw;
+
+      position: fixed;
+      bottom: 20px;
+      left: 5vw;
+      z-index: 99;
+    }
+
+    .disclaimer,
+    .label {
+      display: none;
+    }
+
+    .sims {
+      height: 100%;
+      list-style: none;
+      display: flex;
+      align-items: stretch;
+      gap: 0.25rem;
+      margin: 0;
+      padding: 0;
+    }
+
+    .sim {
+      box-sizing: border-box;
+      padding: 0 1rem;
+      border: none;
+      background: rgba(0, 0, 0, 0.05);
+      border-radius: 0;
+      cursor: pointer;
+      height: 100%;
+      transition: 150ms ease-in-out;
+    }
+
+    .sim:focus {
+      outline: 2px solid var(--color-accent, black)
+    }
+
+    .sim:hover {
+      background: rgba(0, 0, 0, 0.25);
+    }
+
+    .sim--active,
+    .sim--active:hover {
+      background: var(--color-accent, #009bff);
+      color: var(--color-accent-text, white);
+    }
+
+
+    @media all and (min-width: 1024px) {
+
+      .disclaimer,
+      .label {
+        display: block;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <nav id="navWrapContainer">
+    <p class="disclaimer">This is a totally fake nav</p>
+    <p class="label">Simulate: </p>
+    <ul class="sims">
+      <li><button class="sim" data-sim="anonymous">Anonymous</button></li>
+      <li><button class="sim" data-sim="registered">Registered</button></li>
+      <li><button class="sim" data-sim="subscriber">Subscriber</button></li>
+    </ul>
+
+
+  </nav>
+
+  <div id="content">
+    <article id="mainContentSection">
+      %html%
+    </article>
+  </div>
+  <footer style="display: flex; height: 250px; background: #aaa;">
+    <p style="margin: auto;"><em>This footer is faked for spacing purposes.</em></p>
+  </footer>
+  <div id="gannettAtomsComponentBar">This is an action bar</div>
+  <script>
+
+    window.ga_data = {
+      site: {
+        baseName: "usatoday", topLevelDomain: ".com", uaid: "USAT", ads: {}
+      },
+
+      route: {
+        "contentId": 1409783002,
+        "basePageType": "in-depth story pages",
+        "cst": "news",
+        "noAdvertising": false,
+        "sectionName": "news",
+        "seoKeywords": "Crime,Wisconsin Dells,Law Enforcement,Overall Negative,Water Parks",
+        "series": "",
+        "sponsorStory": false,
+        "sponsoredSeries": false,
+        "sponsoredName": "",
+        "sponsorLogo": "",
+        "subsection": "",
+        "ssts": "news",
+        "topic": "",
+        "useCanonical": false,
+        "authors": null,
+        "primaryTag": {
+          "id": "",
+          "name": "",
+          "url": ""
+        },
+        "page_url": "https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/",
+        "short_url": "https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/",
+        "mobile_url": "https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/",
+        "contentType": "story",
+        "includesVideo": false,
+        "simpleTarget": null,
+        "isBreakingNews": false,
+        "cam": {
+          "contentProtectionState": "metered",
+          "assetId": 1409783002,
+          "enabled": true,
+          "restrictContent": false
+        },
+        "thingsToDoPresent": false,
+        "cobrand": false,
+        "excludeFooter": false,
+        "vendor": "",
+        "useParamount": false,
+        "disableBidding": false,
+        "disablePolymer": true,
+        "darkHeader": false,
+        "jsonld": "{\"@context\":\"http://schema.org\",\"@type\":\"NewsArticle\",\"articleSection\":\"news\",\"author\":{\"@type\":\"Person\",\"name\":\"Kevin Grasha and Cameron Knight\"},\"dateCreated\":\"0001-01-01T00:00:00Z\",\"dateModified\":\"2021-04-16T15:18:46Z\",\"datePublished\":\"2021-04-16T15:18:45Z\",\"headline\":\"The chase is on\",\"image\":{\"@type\":\"ImageObject\",\"url\":\"https://www.gannett-cdn.com/presto/2018/10/18/PLSJ/b999ca37-82c3-40e4-9664-d817d3b169c0-KnifeToTheThroat_Final.jpg?crop=3520,2009,x0,y166\"},\"isBasedOn\":\"https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/\",\"keywords\":[\"type:story\",\"access:metered\",\"ssts:news\",\"tag:Crime\",\"tag:Wisconsin Dells\",\"tag:Law Enforcement\",\"tag:Overall Negative\",\"tag:Water Parks\"],\"mainEntityOfPage\":{\"@type\":\"WebPage\",\"@id\":\"https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/\"},\"metadata\":\"{\\\"contentSourceCode\\\":\\\"PCIN\\\",\\\"id\\\":\\\"1409783002\\\",\\\"siteCode\\\":\\\"PCIN\\\",\\\"ssts\\\":\\\"news\\\",\\\"type\\\":\\\"story\\\"}\",\"publisher\":{\"@type\":\"Organization\",\"logo\":{\"@type\":\"ImageObject\",\"height\":60,\"url\":\"https://www.gannett-cdn.com/gannett-web/properties/cincinnati/logos-and-branding/logo-amp-results.png\",\"width\":346},\"name\":\"The Enquirer\"},\"url\":\"https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/\"}",
+        "url": "https://www.cincinnati.com/in-depth/news/2018/10/23/girl-collector-cincinnati-cody-jackson-chase/1409783002/",
+        "name": "Cody Jackson continues to lure girls, even as authorities move in",
+        "author": [
+          {
+            "url": "",
+            "name": "Kevin Grasha"
+          },
+          {
+            "url": "",
+            "name": "Cameron Knight"
+          }
+        ],
+        "datePublished": "2021-04-16T15:18:45Z",
+        "keywords": [
+          "Crime",
+          "Wisconsin Dells",
+          "Law Enforcement",
+          "Overall Negative",
+          "Water Parks"
+        ],
+        "headline": "The chase is on",
+        "sourceOrganization": {
+          "url": "",
+          "name": ""
+        },
+        "creativeWork": {
+          "name": "",
+          "datePublished": "",
+          "keywords": null,
+          "headline": "",
+          "sourceOrganization": ""
+        },
+        "simpleExclusion": null
+      }
+    };
+
+    window.Gallium = { user: {} }
+
+    const url = new URL(window.location);
+    // Sets some dummy GUP data based on desired user status
+    switch (url.searchParams.get("status")) {
+      case "subscriber":
+        console.log("Mocking a subscriber")
+        window.Gallium = {
+          user: Promise.resolve({
+            meta: {
+              status: 200,
+              message: "User found.",
+              isAnonymous: false,
+              unmetRequirements: ["firstName", "lastName"],
+              allRequirementsMet: false,
+              isAuthenticatedInCurrentContext: false,
+              market_relationship: "subscriber",
+            },
+            response: {
+              user: {
+                hasMarketAccess: true,
+                welcomeName: "Groucho",
+              },
+            },
+          }),
+        };
+        break;
+      case "registered":
+        console.log("Mocking a registered user")
+        window.Gallium = {
+          user: Promise.resolve({
+            meta: {
+              status: 200,
+              message: "User found.",
+              isAnonymous: false,
+              unmetRequirements: ["firstName", "lastName"],
+              allRequirementsMet: false,
+              isAuthenticatedInCurrentContext: false,
+              market_relationship: "registered",
+            },
+            response: {
+              user: {
+                hasMarketAccess: true,
+                welcomeName: "Groucho",
+              },
+            },
+          }),
+        };
+        break;
+      default:
+        console.log("Mocking an anonymous user")
+        window.Gallium = {
+          user: Promise.resolve({
+            meta: {
+              status: 404,
+              message: "User not found.",
+              isAnonymous: true,
+              unmetRequirements: ["firstName", "lastName"],
+              allRequirementsMet: false,
+              isAuthenticatedInCurrentContext: false,
+              market_relationship: "anonymous",
+            },
+            response: {
+              user: {
+                hasMarketAccess: false,
+                licensePaymentHistory: [],
+                profileAttributes: {},
+                welcomeName: "",
+              },
+            },
+          }),
+        };
+    }
+  </script>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function (e) {
+
+      // Get some DOM elements
+      const nav = document.querySelector("#navWrapContainer")
+      const buttons = nav.querySelectorAll("[data-sim]")
+
+      // Put our current dev location in a URL and check if the status has been specified.
+      const u = new URL(window.location);
+
+      let status = u.searchParams.get("status");
+
+      if (!status) status = "anonymous"
+
+
+      // For each simulator button ...
+      for (let button of buttons) {
+
+        // This is the simulator target
+        const { sim } = button.dataset;
+
+        // Set the simulator state
+        if (sim === status) button.classList.add("sim--active");
+
+        button.addEventListener("click", e => {
+
+          // If this is true, then no need to do anything.
+          if (sim === status) return;
+
+          // Reload the page with the new status set.
+          u.searchParams.set("status", sim)
+          window.location.href = u.toString();
+
+        })
+      }
+    })
+
+  </script>
+  <script defer src="bundle.js"></script>
+  %indepthjs%
+</body>
+
+</html>

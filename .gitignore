@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+public/bundle.*
+public/embed.html
+public/index.html
+public/global.css
+public/**/*.json
+public/**/*.svg
+
+functions/data/content.json
+functions/data/cast-index.json
+.vscode
+.env

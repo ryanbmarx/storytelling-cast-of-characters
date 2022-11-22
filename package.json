@@ -15,7 +15,7 @@
 		"@rollup/plugin-replace": "^4.0.0",
 		"babel-loader": "^8.0.6",
 		"cheerio": "^1.0.0-rc.12",
-		"d3-color": "^1.4.0",
+		"d3-color": "^3.1.0",
 		"date-fns": "^2.22.1",
 		"date-fns-tz": "^1.1.4",
 		"esm": "^3.2.25",
